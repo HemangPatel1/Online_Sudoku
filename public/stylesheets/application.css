@@ -1,3 +1,8 @@
+body {
+  text-align: center;
+  font-family: Arial;
+}
+
 div.box, div.cell {
   display: inline-block;
 }
@@ -6,3 +11,8 @@ div.box, div.cell {
   width: 30px;
   height: 30px;
 }
+
+#sudoku {
+  font-size: 0;
+  text-align: center;
+  }
