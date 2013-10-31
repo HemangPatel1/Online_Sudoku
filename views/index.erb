@@ -3,9 +3,14 @@
   <title>Sudoku Game</title>   
   <!-- link to the CSS stylesheet -->
   <link href="/stylesheets/application.css" rel="stylesheet" type="text/css">
+  <link href='http://fonts.googleapis.com/css?family=Gochi+Hand|Julius+Sans+One|Economica:400,700' rel='stylesheet' type='text/css'>
 </head>
 <body>
-<h1>Sinatra Sudoku</h1>
+	
+<header>
+<h1>Sudoku :: Sinatra</h1>
+</header>
+
 <div id="sudoku">
   <form action="/" method="post">
   <% 3.times do |row| %>
@@ -18,7 +23,7 @@
 		    <div class="cell">
 		    <% cell_index = row * 27 + box * 3 + cell_row * 9 + cell %>
 		    <% cell_value = cell_value(@current_solution[cell_index]) %>
-      		    <% colour_class = colour_class(@check_solution, @puzzle[cell_index], @current_solution[cell_index], @solution[cell_index])  %>
+      		    <% colour_class = colour_class(@check_solution, @puzzle[cell_index], @current_solution[cell_index], @solution[cell_index]) %>
 		    <input type="text" maxlength="1" autocomplete="off" name="cell[]" value="<%= cell_value %>" class="<%= colour_class %>" >
                   </div>
                 <% end %>
@@ -28,7 +33,7 @@
         <% end %>
       </div>
     <% end %>
-  <button>Check solution</button>
+  <button class="check_solution">Check Solution</button>
   </form>
   </div>
 </body>
