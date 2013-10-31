@@ -23,8 +23,9 @@
 		    <div class="cell">
 		    <% cell_index = row * 27 + box * 3 + cell_row * 9 + cell %>
 		    <% cell_value = cell_value(@current_solution[cell_index]) %>
-      		    <% colour_class = colour_class(@check_solution, @puzzle[cell_index], @current_solution[cell_index], @solution[cell_index]) %>
-		    <input type="text" maxlength="1" autocomplete="off" name="cell[]" value="<%= cell_value %>" class="<%= colour_class %>" >
+		    <% colour_class = colour_class(@check_solution, @puzzle[cell_index], @current_solution[cell_index], @solution[cell_index]) %>
+		   
+		    <input type="text" maxlength="1" autocomplete="off" name="cell[]" value="<%= cell_value %>" class="<%= colour_class %>">
                   </div>
                 <% end %>
               </div>
@@ -33,7 +34,7 @@
         <% end %>
       </div>
     <% end %>
-  <button class="check_solution">Check Solution</button>
+   <button class="check_solution">Check Solution</button>
   </form>
   </div>
 </body>
