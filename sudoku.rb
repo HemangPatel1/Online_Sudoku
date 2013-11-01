@@ -55,6 +55,10 @@ end
 
 	def generate_new_puzzle_if_necessary
 		return if session[:current_solution]
+		generate_new_puzzle
+	end
+
+	def generate_new_puzzle
 		sudoku = random_sudoku
 		session[:solution] = sudoku
 		session[:puzzle] = puzzle(sudoku)
@@ -88,6 +92,11 @@ get '/' do
 	@solution = session[:solution]
 	@puzzle = session[:puzzle]
 	erb :index
+end
+
+get '/new' do
+	generate_new_puzzle
+	redirect to ("/")
 end
 
 post '/' do
