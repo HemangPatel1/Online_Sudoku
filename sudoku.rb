@@ -98,7 +98,7 @@ post '/' do
 end
 
 get '/solution' do
-  @current_solution = session[:solution]
+    @current_solution = session[:solution]
 	@solution = @current_solution
 	@puzzle = session[:puzzle]
   erb :index
