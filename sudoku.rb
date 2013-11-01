@@ -6,7 +6,6 @@ configure :production do
 	  require 'newrelic_rpm'
 end
 
-end
 set :sessions, secret: 'i now hate sudoku' # sessions are disabled by default 
 
 helpers do
