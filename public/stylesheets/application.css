@@ -47,7 +47,7 @@ div.box, div.cell {
 #sudoku {
   font-size: 0;
   text-align: center;
-  padding: 150px 0 50px 50px;
+  padding: 150px 0 0px 50px;
   background-color: #4d4d4d;
   }
 
@@ -88,7 +88,7 @@ div.box, div.cell {
 	font-family: 'Julius Sans One', sans-serif;
 	font-weight: 700;
 	position: relative;
-	top: 0;
+	top: 0px;
 	right: 0px;
 	width: 140px;
 }
@@ -157,7 +157,7 @@ div.box, div.cell {
 	font-family: 'Julius Sans One', sans-serif;
 	font-weight: 700;
 	position: relative;
-	top: -70;
+	top: -68;
 	right: 160px;
 	width: 140px;
 }
@@ -193,7 +193,7 @@ div.box, div.cell {
 	font-family: 'Julius Sans One', sans-serif;
 	font-weight: 700;
 	position: relative;
-	top: -138;
+	top: -133;
 	right: -160px;
 	width: 140px;
 }

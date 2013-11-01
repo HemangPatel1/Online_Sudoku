@@ -24,7 +24,6 @@
 		    <% cell_index = row * 27 + box * 3 + cell_row * 9 + cell %>
 		    <% cell_value = cell_value(@current_solution[cell_index]) %>
 		    <% colour_class = colour_class(@check_solution, @puzzle[cell_index], @current_solution[cell_index], @solution[cell_index]) %>
-		   
 		    <input type="text" maxlength="1" autocomplete="off" name="cell[]" value="<%= cell_value %>" class="<%= colour_class %>">
                   </div>
                 <% end %>
@@ -37,10 +36,10 @@
     <button class="check_solution">Check Answers</button>
   </form>
   <form action="/new">
-    <input type="submit" class="new_game_yellow"  value="New Game">
+    <input type="submit" class="new_game_yellow" value="New Game">
   </form>
   <form action="/solution">
-    <input type="submit" class="see_solution"  value="See Solution">
+    <input type="submit" class="see_solution" value="See Solution">
   </div>
 </body>
 </html>
