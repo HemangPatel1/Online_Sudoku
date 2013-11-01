@@ -1,0 +1,1156 @@
+# Logfile created on 2013-11-01 17:31:54 +0000 by logger.rb/36483
+[11/01/13 17:31:54 +0000 Hemangs-MacBook-Pro.local (61052)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:31:54 +0000 Hemangs-MacBook-Pro.local (61052)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:31:54 +0000 Hemangs-MacBook-Pro.local (61052)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:31:54 +0000 Hemangs-MacBook-Pro.local (61052)] INFO : Enabling the Request Sampler.
+[11/01/13 17:31:54 +0000 Hemangs-MacBook-Pro.local (61052)] INFO : Enabling the Request Sampler.
+[11/01/13 17:31:54 +0000 Hemangs-MacBook-Pro.local (61052)] INFO : Environment: development
+[11/01/13 17:31:54 +0000 Hemangs-MacBook-Pro.local (61052)] INFO : Dispatcher: webrick
+[11/01/13 17:31:54 +0000 Hemangs-MacBook-Pro.local (61052)] INFO : Application: My Application
+[11/01/13 17:31:54 +0000 Hemangs-MacBook-Pro.local (61052)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:31:54 +0000 Hemangs-MacBook-Pro.local (61052)] INFO : Installing Net instrumentation
+[11/01/13 17:31:54 +0000 Hemangs-MacBook-Pro.local (61052)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:31:54 +0000 Hemangs-MacBook-Pro.local (61052)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:31:54 +0000 Hemangs-MacBook-Pro.local (61052)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:31:54 +0000 Hemangs-MacBook-Pro.local (61052)] INFO : Finished instrumentation
+[11/01/13 17:31:54 +0000 Hemangs-MacBook-Pro.local (61052)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:31:56 +0000 Hemangs-MacBook-Pro.local (61055)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:31:56 +0000 Hemangs-MacBook-Pro.local (61055)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:31:56 +0000 Hemangs-MacBook-Pro.local (61055)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:31:56 +0000 Hemangs-MacBook-Pro.local (61055)] INFO : Enabling the Request Sampler.
+[11/01/13 17:31:56 +0000 Hemangs-MacBook-Pro.local (61055)] INFO : Enabling the Request Sampler.
+[11/01/13 17:31:56 +0000 Hemangs-MacBook-Pro.local (61055)] INFO : Environment: development
+[11/01/13 17:31:56 +0000 Hemangs-MacBook-Pro.local (61055)] INFO : Dispatcher: webrick
+[11/01/13 17:31:56 +0000 Hemangs-MacBook-Pro.local (61055)] INFO : Application: My Application
+[11/01/13 17:31:56 +0000 Hemangs-MacBook-Pro.local (61055)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:31:56 +0000 Hemangs-MacBook-Pro.local (61055)] INFO : Installing Net instrumentation
+[11/01/13 17:31:56 +0000 Hemangs-MacBook-Pro.local (61055)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:31:56 +0000 Hemangs-MacBook-Pro.local (61055)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:31:56 +0000 Hemangs-MacBook-Pro.local (61055)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:31:56 +0000 Hemangs-MacBook-Pro.local (61055)] INFO : Finished instrumentation
+[11/01/13 17:31:56 +0000 Hemangs-MacBook-Pro.local (61055)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:31:57 +0000 Hemangs-MacBook-Pro.local (61058)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:31:57 +0000 Hemangs-MacBook-Pro.local (61058)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:31:57 +0000 Hemangs-MacBook-Pro.local (61058)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:31:57 +0000 Hemangs-MacBook-Pro.local (61058)] INFO : Enabling the Request Sampler.
+[11/01/13 17:31:57 +0000 Hemangs-MacBook-Pro.local (61058)] INFO : Enabling the Request Sampler.
+[11/01/13 17:31:57 +0000 Hemangs-MacBook-Pro.local (61058)] INFO : Environment: development
+[11/01/13 17:31:57 +0000 Hemangs-MacBook-Pro.local (61058)] INFO : Dispatcher: webrick
+[11/01/13 17:31:57 +0000 Hemangs-MacBook-Pro.local (61058)] INFO : Application: My Application
+[11/01/13 17:31:57 +0000 Hemangs-MacBook-Pro.local (61058)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:31:57 +0000 Hemangs-MacBook-Pro.local (61058)] INFO : Installing Net instrumentation
+[11/01/13 17:31:57 +0000 Hemangs-MacBook-Pro.local (61058)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:31:57 +0000 Hemangs-MacBook-Pro.local (61058)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:31:57 +0000 Hemangs-MacBook-Pro.local (61058)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:31:57 +0000 Hemangs-MacBook-Pro.local (61058)] INFO : Finished instrumentation
+[11/01/13 17:31:57 +0000 Hemangs-MacBook-Pro.local (61058)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:33:57 +0000 Hemangs-MacBook-Pro.local (61516)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:33:57 +0000 Hemangs-MacBook-Pro.local (61516)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:33:57 +0000 Hemangs-MacBook-Pro.local (61516)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:33:57 +0000 Hemangs-MacBook-Pro.local (61516)] INFO : Enabling the Request Sampler.
+[11/01/13 17:33:57 +0000 Hemangs-MacBook-Pro.local (61516)] INFO : Enabling the Request Sampler.
+[11/01/13 17:33:57 +0000 Hemangs-MacBook-Pro.local (61516)] INFO : Environment: development
+[11/01/13 17:33:57 +0000 Hemangs-MacBook-Pro.local (61516)] INFO : Dispatcher: webrick
+[11/01/13 17:33:57 +0000 Hemangs-MacBook-Pro.local (61516)] INFO : Application: My Application
+[11/01/13 17:33:57 +0000 Hemangs-MacBook-Pro.local (61516)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:33:57 +0000 Hemangs-MacBook-Pro.local (61516)] INFO : Installing Net instrumentation
+[11/01/13 17:33:57 +0000 Hemangs-MacBook-Pro.local (61516)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:33:57 +0000 Hemangs-MacBook-Pro.local (61516)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:33:57 +0000 Hemangs-MacBook-Pro.local (61516)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:33:57 +0000 Hemangs-MacBook-Pro.local (61516)] INFO : Finished instrumentation
+[11/01/13 17:33:57 +0000 Hemangs-MacBook-Pro.local (61516)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:33:59 +0000 Hemangs-MacBook-Pro.local (61519)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:33:59 +0000 Hemangs-MacBook-Pro.local (61519)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:33:59 +0000 Hemangs-MacBook-Pro.local (61519)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:33:59 +0000 Hemangs-MacBook-Pro.local (61519)] INFO : Enabling the Request Sampler.
+[11/01/13 17:33:59 +0000 Hemangs-MacBook-Pro.local (61519)] INFO : Enabling the Request Sampler.
+[11/01/13 17:33:59 +0000 Hemangs-MacBook-Pro.local (61519)] INFO : Environment: development
+[11/01/13 17:33:59 +0000 Hemangs-MacBook-Pro.local (61519)] INFO : Dispatcher: webrick
+[11/01/13 17:33:59 +0000 Hemangs-MacBook-Pro.local (61519)] INFO : Application: My Application
+[11/01/13 17:33:59 +0000 Hemangs-MacBook-Pro.local (61519)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:33:59 +0000 Hemangs-MacBook-Pro.local (61519)] INFO : Installing Net instrumentation
+[11/01/13 17:33:59 +0000 Hemangs-MacBook-Pro.local (61519)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:33:59 +0000 Hemangs-MacBook-Pro.local (61519)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:33:59 +0000 Hemangs-MacBook-Pro.local (61519)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:33:59 +0000 Hemangs-MacBook-Pro.local (61519)] INFO : Finished instrumentation
+[11/01/13 17:33:59 +0000 Hemangs-MacBook-Pro.local (61519)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:34:01 +0000 Hemangs-MacBook-Pro.local (61522)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:34:01 +0000 Hemangs-MacBook-Pro.local (61522)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:34:01 +0000 Hemangs-MacBook-Pro.local (61522)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:34:01 +0000 Hemangs-MacBook-Pro.local (61522)] INFO : Enabling the Request Sampler.
+[11/01/13 17:34:01 +0000 Hemangs-MacBook-Pro.local (61522)] INFO : Enabling the Request Sampler.
+[11/01/13 17:34:01 +0000 Hemangs-MacBook-Pro.local (61522)] INFO : Environment: development
+[11/01/13 17:34:01 +0000 Hemangs-MacBook-Pro.local (61522)] INFO : Dispatcher: webrick
+[11/01/13 17:34:01 +0000 Hemangs-MacBook-Pro.local (61522)] INFO : Application: My Application
+[11/01/13 17:34:01 +0000 Hemangs-MacBook-Pro.local (61522)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:34:01 +0000 Hemangs-MacBook-Pro.local (61522)] INFO : Installing Net instrumentation
+[11/01/13 17:34:01 +0000 Hemangs-MacBook-Pro.local (61522)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:34:01 +0000 Hemangs-MacBook-Pro.local (61522)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:34:01 +0000 Hemangs-MacBook-Pro.local (61522)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:34:01 +0000 Hemangs-MacBook-Pro.local (61522)] INFO : Finished instrumentation
+[11/01/13 17:34:01 +0000 Hemangs-MacBook-Pro.local (61522)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:34:25 +0000 Hemangs-MacBook-Pro.local (61527)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:34:25 +0000 Hemangs-MacBook-Pro.local (61527)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:34:25 +0000 Hemangs-MacBook-Pro.local (61527)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:34:25 +0000 Hemangs-MacBook-Pro.local (61527)] INFO : Enabling the Request Sampler.
+[11/01/13 17:34:25 +0000 Hemangs-MacBook-Pro.local (61527)] INFO : Enabling the Request Sampler.
+[11/01/13 17:34:25 +0000 Hemangs-MacBook-Pro.local (61527)] INFO : Environment: development
+[11/01/13 17:34:25 +0000 Hemangs-MacBook-Pro.local (61527)] INFO : Dispatcher: webrick
+[11/01/13 17:34:25 +0000 Hemangs-MacBook-Pro.local (61527)] INFO : Application: My Application
+[11/01/13 17:34:25 +0000 Hemangs-MacBook-Pro.local (61527)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:34:25 +0000 Hemangs-MacBook-Pro.local (61527)] INFO : Installing Net instrumentation
+[11/01/13 17:34:25 +0000 Hemangs-MacBook-Pro.local (61527)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:34:25 +0000 Hemangs-MacBook-Pro.local (61527)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:34:25 +0000 Hemangs-MacBook-Pro.local (61527)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:34:25 +0000 Hemangs-MacBook-Pro.local (61527)] INFO : Finished instrumentation
+[11/01/13 17:34:25 +0000 Hemangs-MacBook-Pro.local (61527)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:35:02 +0000 Hemangs-MacBook-Pro.local (61537)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:35:02 +0000 Hemangs-MacBook-Pro.local (61537)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:35:02 +0000 Hemangs-MacBook-Pro.local (61537)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:35:02 +0000 Hemangs-MacBook-Pro.local (61537)] INFO : Enabling the Request Sampler.
+[11/01/13 17:35:02 +0000 Hemangs-MacBook-Pro.local (61537)] INFO : Enabling the Request Sampler.
+[11/01/13 17:35:02 +0000 Hemangs-MacBook-Pro.local (61537)] INFO : Environment: development
+[11/01/13 17:35:02 +0000 Hemangs-MacBook-Pro.local (61537)] INFO : Dispatcher: webrick
+[11/01/13 17:35:02 +0000 Hemangs-MacBook-Pro.local (61537)] INFO : Application: My Application
+[11/01/13 17:35:02 +0000 Hemangs-MacBook-Pro.local (61537)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:35:02 +0000 Hemangs-MacBook-Pro.local (61537)] INFO : Installing Net instrumentation
+[11/01/13 17:35:02 +0000 Hemangs-MacBook-Pro.local (61537)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:35:02 +0000 Hemangs-MacBook-Pro.local (61537)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:35:02 +0000 Hemangs-MacBook-Pro.local (61537)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:35:02 +0000 Hemangs-MacBook-Pro.local (61537)] INFO : Finished instrumentation
+[11/01/13 17:35:02 +0000 Hemangs-MacBook-Pro.local (61537)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:35:04 +0000 Hemangs-MacBook-Pro.local (61540)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:35:04 +0000 Hemangs-MacBook-Pro.local (61540)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:35:04 +0000 Hemangs-MacBook-Pro.local (61540)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:35:04 +0000 Hemangs-MacBook-Pro.local (61540)] INFO : Enabling the Request Sampler.
+[11/01/13 17:35:04 +0000 Hemangs-MacBook-Pro.local (61540)] INFO : Enabling the Request Sampler.
+[11/01/13 17:35:04 +0000 Hemangs-MacBook-Pro.local (61540)] INFO : Environment: development
+[11/01/13 17:35:04 +0000 Hemangs-MacBook-Pro.local (61540)] INFO : Dispatcher: webrick
+[11/01/13 17:35:04 +0000 Hemangs-MacBook-Pro.local (61540)] INFO : Application: My Application
+[11/01/13 17:35:04 +0000 Hemangs-MacBook-Pro.local (61540)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:35:04 +0000 Hemangs-MacBook-Pro.local (61540)] INFO : Installing Net instrumentation
+[11/01/13 17:35:04 +0000 Hemangs-MacBook-Pro.local (61540)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:35:04 +0000 Hemangs-MacBook-Pro.local (61540)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:35:04 +0000 Hemangs-MacBook-Pro.local (61540)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:35:04 +0000 Hemangs-MacBook-Pro.local (61540)] INFO : Finished instrumentation
+[11/01/13 17:35:04 +0000 Hemangs-MacBook-Pro.local (61540)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61543)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61543)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61543)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61543)] INFO : Enabling the Request Sampler.
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61543)] INFO : Enabling the Request Sampler.
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61543)] INFO : Environment: development
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61543)] INFO : Dispatcher: webrick
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61543)] INFO : Application: My Application
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61543)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61543)] INFO : Installing Net instrumentation
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61543)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61543)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61543)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61543)] INFO : Finished instrumentation
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61543)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61546)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61546)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61546)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61546)] INFO : Enabling the Request Sampler.
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61546)] INFO : Enabling the Request Sampler.
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61546)] INFO : Environment: development
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61546)] INFO : Dispatcher: webrick
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61546)] INFO : Application: My Application
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61546)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61546)] INFO : Installing Net instrumentation
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61546)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61546)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61546)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:35:06 +0000 Hemangs-MacBook-Pro.local (61546)] INFO : Finished instrumentation
+[11/01/13 17:35:07 +0000 Hemangs-MacBook-Pro.local (61546)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:36:25 +0000 Hemangs-MacBook-Pro.local (61557)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:36:25 +0000 Hemangs-MacBook-Pro.local (61557)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:36:25 +0000 Hemangs-MacBook-Pro.local (61557)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:36:25 +0000 Hemangs-MacBook-Pro.local (61557)] INFO : Enabling the Request Sampler.
+[11/01/13 17:36:25 +0000 Hemangs-MacBook-Pro.local (61557)] INFO : Enabling the Request Sampler.
+[11/01/13 17:36:25 +0000 Hemangs-MacBook-Pro.local (61557)] INFO : Environment: development
+[11/01/13 17:36:25 +0000 Hemangs-MacBook-Pro.local (61557)] INFO : Dispatcher: webrick
+[11/01/13 17:36:25 +0000 Hemangs-MacBook-Pro.local (61557)] INFO : Application: My Application
+[11/01/13 17:36:25 +0000 Hemangs-MacBook-Pro.local (61557)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:36:25 +0000 Hemangs-MacBook-Pro.local (61557)] INFO : Installing Net instrumentation
+[11/01/13 17:36:25 +0000 Hemangs-MacBook-Pro.local (61557)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:36:25 +0000 Hemangs-MacBook-Pro.local (61557)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:36:25 +0000 Hemangs-MacBook-Pro.local (61557)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:36:25 +0000 Hemangs-MacBook-Pro.local (61557)] INFO : Finished instrumentation
+[11/01/13 17:36:25 +0000 Hemangs-MacBook-Pro.local (61557)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61560)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61560)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61560)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61560)] INFO : Enabling the Request Sampler.
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61560)] INFO : Enabling the Request Sampler.
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61560)] INFO : Environment: development
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61560)] INFO : Dispatcher: webrick
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61560)] INFO : Application: My Application
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61560)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61560)] INFO : Installing Net instrumentation
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61560)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61560)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61560)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61560)] INFO : Finished instrumentation
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61560)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61563)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61563)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61563)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61563)] INFO : Enabling the Request Sampler.
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61563)] INFO : Enabling the Request Sampler.
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61563)] INFO : Environment: development
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61563)] INFO : Dispatcher: webrick
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61563)] INFO : Application: My Application
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61563)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61563)] INFO : Installing Net instrumentation
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61563)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61563)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61563)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61563)] INFO : Finished instrumentation
+[11/01/13 17:36:28 +0000 Hemangs-MacBook-Pro.local (61563)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:37:07 +0000 Hemangs-MacBook-Pro.local (61568)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:37:07 +0000 Hemangs-MacBook-Pro.local (61568)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:37:07 +0000 Hemangs-MacBook-Pro.local (61568)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:37:07 +0000 Hemangs-MacBook-Pro.local (61568)] INFO : Enabling the Request Sampler.
+[11/01/13 17:37:07 +0000 Hemangs-MacBook-Pro.local (61568)] INFO : Enabling the Request Sampler.
+[11/01/13 17:37:07 +0000 Hemangs-MacBook-Pro.local (61568)] INFO : Environment: development
+[11/01/13 17:37:07 +0000 Hemangs-MacBook-Pro.local (61568)] INFO : Dispatcher: webrick
+[11/01/13 17:37:07 +0000 Hemangs-MacBook-Pro.local (61568)] INFO : Application: My Application
+[11/01/13 17:37:07 +0000 Hemangs-MacBook-Pro.local (61568)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:37:07 +0000 Hemangs-MacBook-Pro.local (61568)] INFO : Installing Net instrumentation
+[11/01/13 17:37:07 +0000 Hemangs-MacBook-Pro.local (61568)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:37:07 +0000 Hemangs-MacBook-Pro.local (61568)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:37:07 +0000 Hemangs-MacBook-Pro.local (61568)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:37:07 +0000 Hemangs-MacBook-Pro.local (61568)] INFO : Finished instrumentation
+[11/01/13 17:37:07 +0000 Hemangs-MacBook-Pro.local (61568)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:37:09 +0000 Hemangs-MacBook-Pro.local (61571)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:37:09 +0000 Hemangs-MacBook-Pro.local (61571)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:37:09 +0000 Hemangs-MacBook-Pro.local (61571)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:37:09 +0000 Hemangs-MacBook-Pro.local (61571)] INFO : Enabling the Request Sampler.
+[11/01/13 17:37:09 +0000 Hemangs-MacBook-Pro.local (61571)] INFO : Enabling the Request Sampler.
+[11/01/13 17:37:09 +0000 Hemangs-MacBook-Pro.local (61571)] INFO : Environment: development
+[11/01/13 17:37:09 +0000 Hemangs-MacBook-Pro.local (61571)] INFO : Dispatcher: webrick
+[11/01/13 17:37:09 +0000 Hemangs-MacBook-Pro.local (61571)] INFO : Application: My Application
+[11/01/13 17:37:09 +0000 Hemangs-MacBook-Pro.local (61571)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:37:09 +0000 Hemangs-MacBook-Pro.local (61571)] INFO : Installing Net instrumentation
+[11/01/13 17:37:09 +0000 Hemangs-MacBook-Pro.local (61571)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:37:09 +0000 Hemangs-MacBook-Pro.local (61571)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:37:09 +0000 Hemangs-MacBook-Pro.local (61571)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:37:09 +0000 Hemangs-MacBook-Pro.local (61571)] INFO : Finished instrumentation
+[11/01/13 17:37:09 +0000 Hemangs-MacBook-Pro.local (61571)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:37:10 +0000 Hemangs-MacBook-Pro.local (61574)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:37:10 +0000 Hemangs-MacBook-Pro.local (61574)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:37:10 +0000 Hemangs-MacBook-Pro.local (61574)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:37:10 +0000 Hemangs-MacBook-Pro.local (61574)] INFO : Enabling the Request Sampler.
+[11/01/13 17:37:10 +0000 Hemangs-MacBook-Pro.local (61574)] INFO : Enabling the Request Sampler.
+[11/01/13 17:37:10 +0000 Hemangs-MacBook-Pro.local (61574)] INFO : Environment: development
+[11/01/13 17:37:10 +0000 Hemangs-MacBook-Pro.local (61574)] INFO : Dispatcher: webrick
+[11/01/13 17:37:10 +0000 Hemangs-MacBook-Pro.local (61574)] INFO : Application: My Application
+[11/01/13 17:37:10 +0000 Hemangs-MacBook-Pro.local (61574)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:37:10 +0000 Hemangs-MacBook-Pro.local (61574)] INFO : Installing Net instrumentation
+[11/01/13 17:37:10 +0000 Hemangs-MacBook-Pro.local (61574)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:37:10 +0000 Hemangs-MacBook-Pro.local (61574)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:37:10 +0000 Hemangs-MacBook-Pro.local (61574)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:37:10 +0000 Hemangs-MacBook-Pro.local (61574)] INFO : Finished instrumentation
+[11/01/13 17:37:10 +0000 Hemangs-MacBook-Pro.local (61574)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:37:47 +0000 Hemangs-MacBook-Pro.local (61579)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:37:47 +0000 Hemangs-MacBook-Pro.local (61579)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:37:47 +0000 Hemangs-MacBook-Pro.local (61579)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:37:47 +0000 Hemangs-MacBook-Pro.local (61579)] INFO : Enabling the Request Sampler.
+[11/01/13 17:37:47 +0000 Hemangs-MacBook-Pro.local (61579)] INFO : Enabling the Request Sampler.
+[11/01/13 17:37:47 +0000 Hemangs-MacBook-Pro.local (61579)] INFO : Environment: development
+[11/01/13 17:37:47 +0000 Hemangs-MacBook-Pro.local (61579)] INFO : Dispatcher: webrick
+[11/01/13 17:37:47 +0000 Hemangs-MacBook-Pro.local (61579)] INFO : Application: My Application
+[11/01/13 17:37:47 +0000 Hemangs-MacBook-Pro.local (61579)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:37:47 +0000 Hemangs-MacBook-Pro.local (61579)] INFO : Installing Net instrumentation
+[11/01/13 17:37:47 +0000 Hemangs-MacBook-Pro.local (61579)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:37:47 +0000 Hemangs-MacBook-Pro.local (61579)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:37:47 +0000 Hemangs-MacBook-Pro.local (61579)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:37:47 +0000 Hemangs-MacBook-Pro.local (61579)] INFO : Finished instrumentation
+[11/01/13 17:37:47 +0000 Hemangs-MacBook-Pro.local (61579)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61582)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61582)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61582)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61582)] INFO : Enabling the Request Sampler.
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61582)] INFO : Enabling the Request Sampler.
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61582)] INFO : Environment: development
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61582)] INFO : Dispatcher: webrick
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61582)] INFO : Application: My Application
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61582)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61582)] INFO : Installing Net instrumentation
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61582)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61582)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61582)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61582)] INFO : Finished instrumentation
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61582)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61585)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61585)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61585)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61585)] INFO : Enabling the Request Sampler.
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61585)] INFO : Enabling the Request Sampler.
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61585)] INFO : Environment: development
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61585)] INFO : Dispatcher: webrick
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61585)] INFO : Application: My Application
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61585)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61585)] INFO : Installing Net instrumentation
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61585)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61585)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61585)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61585)] INFO : Finished instrumentation
+[11/01/13 17:37:49 +0000 Hemangs-MacBook-Pro.local (61585)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:37:51 +0000 Hemangs-MacBook-Pro.local (61588)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:37:51 +0000 Hemangs-MacBook-Pro.local (61588)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:37:51 +0000 Hemangs-MacBook-Pro.local (61588)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:37:51 +0000 Hemangs-MacBook-Pro.local (61588)] INFO : Enabling the Request Sampler.
+[11/01/13 17:37:51 +0000 Hemangs-MacBook-Pro.local (61588)] INFO : Enabling the Request Sampler.
+[11/01/13 17:37:51 +0000 Hemangs-MacBook-Pro.local (61588)] INFO : Environment: development
+[11/01/13 17:37:51 +0000 Hemangs-MacBook-Pro.local (61588)] INFO : Dispatcher: webrick
+[11/01/13 17:37:51 +0000 Hemangs-MacBook-Pro.local (61588)] INFO : Application: My Application
+[11/01/13 17:37:51 +0000 Hemangs-MacBook-Pro.local (61588)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:37:51 +0000 Hemangs-MacBook-Pro.local (61588)] INFO : Installing Net instrumentation
+[11/01/13 17:37:51 +0000 Hemangs-MacBook-Pro.local (61588)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:37:51 +0000 Hemangs-MacBook-Pro.local (61588)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:37:51 +0000 Hemangs-MacBook-Pro.local (61588)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:37:51 +0000 Hemangs-MacBook-Pro.local (61588)] INFO : Finished instrumentation
+[11/01/13 17:37:51 +0000 Hemangs-MacBook-Pro.local (61588)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:37:52 +0000 Hemangs-MacBook-Pro.local (61591)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:37:52 +0000 Hemangs-MacBook-Pro.local (61591)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:37:52 +0000 Hemangs-MacBook-Pro.local (61591)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:37:52 +0000 Hemangs-MacBook-Pro.local (61591)] INFO : Enabling the Request Sampler.
+[11/01/13 17:37:52 +0000 Hemangs-MacBook-Pro.local (61591)] INFO : Enabling the Request Sampler.
+[11/01/13 17:37:52 +0000 Hemangs-MacBook-Pro.local (61591)] INFO : Environment: development
+[11/01/13 17:37:52 +0000 Hemangs-MacBook-Pro.local (61591)] INFO : Dispatcher: webrick
+[11/01/13 17:37:52 +0000 Hemangs-MacBook-Pro.local (61591)] INFO : Application: My Application
+[11/01/13 17:37:52 +0000 Hemangs-MacBook-Pro.local (61591)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:37:52 +0000 Hemangs-MacBook-Pro.local (61591)] INFO : Installing Net instrumentation
+[11/01/13 17:37:52 +0000 Hemangs-MacBook-Pro.local (61591)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:37:52 +0000 Hemangs-MacBook-Pro.local (61591)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:37:52 +0000 Hemangs-MacBook-Pro.local (61591)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:37:52 +0000 Hemangs-MacBook-Pro.local (61591)] INFO : Finished instrumentation
+[11/01/13 17:37:52 +0000 Hemangs-MacBook-Pro.local (61591)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:38:50 +0000 Hemangs-MacBook-Pro.local (61594)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:38:50 +0000 Hemangs-MacBook-Pro.local (61594)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:38:50 +0000 Hemangs-MacBook-Pro.local (61594)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:38:50 +0000 Hemangs-MacBook-Pro.local (61594)] INFO : Enabling the Request Sampler.
+[11/01/13 17:38:50 +0000 Hemangs-MacBook-Pro.local (61594)] INFO : Enabling the Request Sampler.
+[11/01/13 17:38:50 +0000 Hemangs-MacBook-Pro.local (61594)] INFO : Environment: development
+[11/01/13 17:38:50 +0000 Hemangs-MacBook-Pro.local (61594)] INFO : Dispatcher: webrick
+[11/01/13 17:38:50 +0000 Hemangs-MacBook-Pro.local (61594)] INFO : Application: My Application
+[11/01/13 17:38:50 +0000 Hemangs-MacBook-Pro.local (61594)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:38:50 +0000 Hemangs-MacBook-Pro.local (61594)] INFO : Installing Net instrumentation
+[11/01/13 17:38:50 +0000 Hemangs-MacBook-Pro.local (61594)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:38:50 +0000 Hemangs-MacBook-Pro.local (61594)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:38:50 +0000 Hemangs-MacBook-Pro.local (61594)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:38:50 +0000 Hemangs-MacBook-Pro.local (61594)] INFO : Finished instrumentation
+[11/01/13 17:38:50 +0000 Hemangs-MacBook-Pro.local (61594)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:39:39 +0000 Hemangs-MacBook-Pro.local (61597)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:39:39 +0000 Hemangs-MacBook-Pro.local (61597)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:39:39 +0000 Hemangs-MacBook-Pro.local (61597)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:39:39 +0000 Hemangs-MacBook-Pro.local (61597)] INFO : Enabling the Request Sampler.
+[11/01/13 17:39:39 +0000 Hemangs-MacBook-Pro.local (61597)] INFO : Enabling the Request Sampler.
+[11/01/13 17:39:39 +0000 Hemangs-MacBook-Pro.local (61597)] INFO : Environment: development
+[11/01/13 17:39:39 +0000 Hemangs-MacBook-Pro.local (61597)] INFO : Dispatcher: webrick
+[11/01/13 17:39:39 +0000 Hemangs-MacBook-Pro.local (61597)] INFO : Application: My Application
+[11/01/13 17:39:39 +0000 Hemangs-MacBook-Pro.local (61597)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:39:39 +0000 Hemangs-MacBook-Pro.local (61597)] INFO : Installing Net instrumentation
+[11/01/13 17:39:39 +0000 Hemangs-MacBook-Pro.local (61597)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:39:39 +0000 Hemangs-MacBook-Pro.local (61597)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:39:39 +0000 Hemangs-MacBook-Pro.local (61597)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:39:39 +0000 Hemangs-MacBook-Pro.local (61597)] INFO : Finished instrumentation
+[11/01/13 17:39:39 +0000 Hemangs-MacBook-Pro.local (61597)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:39:40 +0000 Hemangs-MacBook-Pro.local (61600)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:39:40 +0000 Hemangs-MacBook-Pro.local (61600)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:39:40 +0000 Hemangs-MacBook-Pro.local (61600)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:39:40 +0000 Hemangs-MacBook-Pro.local (61600)] INFO : Enabling the Request Sampler.
+[11/01/13 17:39:40 +0000 Hemangs-MacBook-Pro.local (61600)] INFO : Enabling the Request Sampler.
+[11/01/13 17:39:40 +0000 Hemangs-MacBook-Pro.local (61600)] INFO : Environment: development
+[11/01/13 17:39:40 +0000 Hemangs-MacBook-Pro.local (61600)] INFO : Dispatcher: webrick
+[11/01/13 17:39:40 +0000 Hemangs-MacBook-Pro.local (61600)] INFO : Application: My Application
+[11/01/13 17:39:40 +0000 Hemangs-MacBook-Pro.local (61600)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:39:40 +0000 Hemangs-MacBook-Pro.local (61600)] INFO : Installing Net instrumentation
+[11/01/13 17:39:40 +0000 Hemangs-MacBook-Pro.local (61600)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:39:40 +0000 Hemangs-MacBook-Pro.local (61600)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:39:40 +0000 Hemangs-MacBook-Pro.local (61600)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:39:40 +0000 Hemangs-MacBook-Pro.local (61600)] INFO : Finished instrumentation
+[11/01/13 17:39:40 +0000 Hemangs-MacBook-Pro.local (61600)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:39:43 +0000 Hemangs-MacBook-Pro.local (61605)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:39:43 +0000 Hemangs-MacBook-Pro.local (61605)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:39:43 +0000 Hemangs-MacBook-Pro.local (61605)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:39:43 +0000 Hemangs-MacBook-Pro.local (61605)] INFO : Enabling the Request Sampler.
+[11/01/13 17:39:43 +0000 Hemangs-MacBook-Pro.local (61605)] INFO : Enabling the Request Sampler.
+[11/01/13 17:39:43 +0000 Hemangs-MacBook-Pro.local (61605)] INFO : Environment: development
+[11/01/13 17:39:43 +0000 Hemangs-MacBook-Pro.local (61605)] INFO : Dispatcher: webrick
+[11/01/13 17:39:43 +0000 Hemangs-MacBook-Pro.local (61605)] INFO : Application: My Application
+[11/01/13 17:39:43 +0000 Hemangs-MacBook-Pro.local (61605)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:39:43 +0000 Hemangs-MacBook-Pro.local (61605)] INFO : Installing Net instrumentation
+[11/01/13 17:39:43 +0000 Hemangs-MacBook-Pro.local (61605)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:39:43 +0000 Hemangs-MacBook-Pro.local (61605)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:39:43 +0000 Hemangs-MacBook-Pro.local (61605)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:39:43 +0000 Hemangs-MacBook-Pro.local (61605)] INFO : Finished instrumentation
+[11/01/13 17:39:43 +0000 Hemangs-MacBook-Pro.local (61605)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:39:45 +0000 Hemangs-MacBook-Pro.local (61608)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:39:45 +0000 Hemangs-MacBook-Pro.local (61608)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:39:45 +0000 Hemangs-MacBook-Pro.local (61608)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:39:45 +0000 Hemangs-MacBook-Pro.local (61608)] INFO : Enabling the Request Sampler.
+[11/01/13 17:39:45 +0000 Hemangs-MacBook-Pro.local (61608)] INFO : Enabling the Request Sampler.
+[11/01/13 17:39:45 +0000 Hemangs-MacBook-Pro.local (61608)] INFO : Environment: development
+[11/01/13 17:39:45 +0000 Hemangs-MacBook-Pro.local (61608)] INFO : Dispatcher: webrick
+[11/01/13 17:39:45 +0000 Hemangs-MacBook-Pro.local (61608)] INFO : Application: My Application
+[11/01/13 17:39:45 +0000 Hemangs-MacBook-Pro.local (61608)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:39:45 +0000 Hemangs-MacBook-Pro.local (61608)] INFO : Installing Net instrumentation
+[11/01/13 17:39:45 +0000 Hemangs-MacBook-Pro.local (61608)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:39:45 +0000 Hemangs-MacBook-Pro.local (61608)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:39:45 +0000 Hemangs-MacBook-Pro.local (61608)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:39:45 +0000 Hemangs-MacBook-Pro.local (61608)] INFO : Finished instrumentation
+[11/01/13 17:39:45 +0000 Hemangs-MacBook-Pro.local (61608)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:39:46 +0000 Hemangs-MacBook-Pro.local (61611)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:39:46 +0000 Hemangs-MacBook-Pro.local (61611)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:39:46 +0000 Hemangs-MacBook-Pro.local (61611)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:39:46 +0000 Hemangs-MacBook-Pro.local (61611)] INFO : Enabling the Request Sampler.
+[11/01/13 17:39:46 +0000 Hemangs-MacBook-Pro.local (61611)] INFO : Enabling the Request Sampler.
+[11/01/13 17:39:46 +0000 Hemangs-MacBook-Pro.local (61611)] INFO : Environment: development
+[11/01/13 17:39:46 +0000 Hemangs-MacBook-Pro.local (61611)] INFO : Dispatcher: webrick
+[11/01/13 17:39:46 +0000 Hemangs-MacBook-Pro.local (61611)] INFO : Application: My Application
+[11/01/13 17:39:46 +0000 Hemangs-MacBook-Pro.local (61611)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:39:46 +0000 Hemangs-MacBook-Pro.local (61611)] INFO : Installing Net instrumentation
+[11/01/13 17:39:46 +0000 Hemangs-MacBook-Pro.local (61611)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:39:46 +0000 Hemangs-MacBook-Pro.local (61611)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:39:46 +0000 Hemangs-MacBook-Pro.local (61611)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:39:46 +0000 Hemangs-MacBook-Pro.local (61611)] INFO : Finished instrumentation
+[11/01/13 17:39:46 +0000 Hemangs-MacBook-Pro.local (61611)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:39:49 +0000 Hemangs-MacBook-Pro.local (61614)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:39:49 +0000 Hemangs-MacBook-Pro.local (61614)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:39:49 +0000 Hemangs-MacBook-Pro.local (61614)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:39:49 +0000 Hemangs-MacBook-Pro.local (61614)] INFO : Enabling the Request Sampler.
+[11/01/13 17:39:49 +0000 Hemangs-MacBook-Pro.local (61614)] INFO : Enabling the Request Sampler.
+[11/01/13 17:39:49 +0000 Hemangs-MacBook-Pro.local (61614)] INFO : Environment: development
+[11/01/13 17:39:49 +0000 Hemangs-MacBook-Pro.local (61614)] INFO : Dispatcher: webrick
+[11/01/13 17:39:49 +0000 Hemangs-MacBook-Pro.local (61614)] INFO : Application: My Application
+[11/01/13 17:39:49 +0000 Hemangs-MacBook-Pro.local (61614)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:39:49 +0000 Hemangs-MacBook-Pro.local (61614)] INFO : Installing Net instrumentation
+[11/01/13 17:39:49 +0000 Hemangs-MacBook-Pro.local (61614)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:39:49 +0000 Hemangs-MacBook-Pro.local (61614)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:39:49 +0000 Hemangs-MacBook-Pro.local (61614)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:39:49 +0000 Hemangs-MacBook-Pro.local (61614)] INFO : Finished instrumentation
+[11/01/13 17:39:49 +0000 Hemangs-MacBook-Pro.local (61614)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:39:51 +0000 Hemangs-MacBook-Pro.local (61617)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:39:51 +0000 Hemangs-MacBook-Pro.local (61617)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:39:51 +0000 Hemangs-MacBook-Pro.local (61617)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:39:51 +0000 Hemangs-MacBook-Pro.local (61617)] INFO : Enabling the Request Sampler.
+[11/01/13 17:39:51 +0000 Hemangs-MacBook-Pro.local (61617)] INFO : Enabling the Request Sampler.
+[11/01/13 17:39:51 +0000 Hemangs-MacBook-Pro.local (61617)] INFO : Environment: development
+[11/01/13 17:39:51 +0000 Hemangs-MacBook-Pro.local (61617)] INFO : Dispatcher: webrick
+[11/01/13 17:39:51 +0000 Hemangs-MacBook-Pro.local (61617)] INFO : Application: My Application
+[11/01/13 17:39:51 +0000 Hemangs-MacBook-Pro.local (61617)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:39:51 +0000 Hemangs-MacBook-Pro.local (61617)] INFO : Installing Net instrumentation
+[11/01/13 17:39:51 +0000 Hemangs-MacBook-Pro.local (61617)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:39:51 +0000 Hemangs-MacBook-Pro.local (61617)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:39:51 +0000 Hemangs-MacBook-Pro.local (61617)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:39:51 +0000 Hemangs-MacBook-Pro.local (61617)] INFO : Finished instrumentation
+[11/01/13 17:39:51 +0000 Hemangs-MacBook-Pro.local (61617)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:42:37 +0000 Hemangs-MacBook-Pro.local (61635)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:42:37 +0000 Hemangs-MacBook-Pro.local (61635)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:42:37 +0000 Hemangs-MacBook-Pro.local (61635)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:42:37 +0000 Hemangs-MacBook-Pro.local (61635)] INFO : Enabling the Request Sampler.
+[11/01/13 17:42:37 +0000 Hemangs-MacBook-Pro.local (61635)] INFO : Enabling the Request Sampler.
+[11/01/13 17:42:37 +0000 Hemangs-MacBook-Pro.local (61635)] INFO : Environment: development
+[11/01/13 17:42:37 +0000 Hemangs-MacBook-Pro.local (61635)] INFO : Dispatcher: webrick
+[11/01/13 17:42:37 +0000 Hemangs-MacBook-Pro.local (61635)] INFO : Application: My Application
+[11/01/13 17:42:37 +0000 Hemangs-MacBook-Pro.local (61635)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:42:37 +0000 Hemangs-MacBook-Pro.local (61635)] INFO : Installing Net instrumentation
+[11/01/13 17:42:37 +0000 Hemangs-MacBook-Pro.local (61635)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:42:37 +0000 Hemangs-MacBook-Pro.local (61635)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:42:37 +0000 Hemangs-MacBook-Pro.local (61635)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:42:37 +0000 Hemangs-MacBook-Pro.local (61635)] INFO : Finished instrumentation
+[11/01/13 17:42:37 +0000 Hemangs-MacBook-Pro.local (61635)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:42:39 +0000 Hemangs-MacBook-Pro.local (61638)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:42:39 +0000 Hemangs-MacBook-Pro.local (61638)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:42:39 +0000 Hemangs-MacBook-Pro.local (61638)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:42:39 +0000 Hemangs-MacBook-Pro.local (61638)] INFO : Enabling the Request Sampler.
+[11/01/13 17:42:39 +0000 Hemangs-MacBook-Pro.local (61638)] INFO : Enabling the Request Sampler.
+[11/01/13 17:42:39 +0000 Hemangs-MacBook-Pro.local (61638)] INFO : Environment: development
+[11/01/13 17:42:39 +0000 Hemangs-MacBook-Pro.local (61638)] INFO : Dispatcher: webrick
+[11/01/13 17:42:39 +0000 Hemangs-MacBook-Pro.local (61638)] INFO : Application: My Application
+[11/01/13 17:42:39 +0000 Hemangs-MacBook-Pro.local (61638)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:42:39 +0000 Hemangs-MacBook-Pro.local (61638)] INFO : Installing Net instrumentation
+[11/01/13 17:42:39 +0000 Hemangs-MacBook-Pro.local (61638)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:42:39 +0000 Hemangs-MacBook-Pro.local (61638)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:42:39 +0000 Hemangs-MacBook-Pro.local (61638)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:42:39 +0000 Hemangs-MacBook-Pro.local (61638)] INFO : Finished instrumentation
+[11/01/13 17:42:39 +0000 Hemangs-MacBook-Pro.local (61638)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:42:48 +0000 Hemangs-MacBook-Pro.local (61641)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:42:48 +0000 Hemangs-MacBook-Pro.local (61641)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:42:48 +0000 Hemangs-MacBook-Pro.local (61641)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:42:48 +0000 Hemangs-MacBook-Pro.local (61641)] INFO : Enabling the Request Sampler.
+[11/01/13 17:42:48 +0000 Hemangs-MacBook-Pro.local (61641)] INFO : Enabling the Request Sampler.
+[11/01/13 17:42:48 +0000 Hemangs-MacBook-Pro.local (61641)] INFO : Environment: development
+[11/01/13 17:42:48 +0000 Hemangs-MacBook-Pro.local (61641)] INFO : Dispatcher: webrick
+[11/01/13 17:42:48 +0000 Hemangs-MacBook-Pro.local (61641)] INFO : Application: My Application
+[11/01/13 17:42:48 +0000 Hemangs-MacBook-Pro.local (61641)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:42:48 +0000 Hemangs-MacBook-Pro.local (61641)] INFO : Installing Net instrumentation
+[11/01/13 17:42:48 +0000 Hemangs-MacBook-Pro.local (61641)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:42:48 +0000 Hemangs-MacBook-Pro.local (61641)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:42:48 +0000 Hemangs-MacBook-Pro.local (61641)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:42:48 +0000 Hemangs-MacBook-Pro.local (61641)] INFO : Finished instrumentation
+[11/01/13 17:42:48 +0000 Hemangs-MacBook-Pro.local (61641)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:42:49 +0000 Hemangs-MacBook-Pro.local (61644)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:42:49 +0000 Hemangs-MacBook-Pro.local (61644)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:42:49 +0000 Hemangs-MacBook-Pro.local (61644)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:42:49 +0000 Hemangs-MacBook-Pro.local (61644)] INFO : Enabling the Request Sampler.
+[11/01/13 17:42:49 +0000 Hemangs-MacBook-Pro.local (61644)] INFO : Enabling the Request Sampler.
+[11/01/13 17:42:49 +0000 Hemangs-MacBook-Pro.local (61644)] INFO : Environment: development
+[11/01/13 17:42:49 +0000 Hemangs-MacBook-Pro.local (61644)] INFO : Dispatcher: webrick
+[11/01/13 17:42:49 +0000 Hemangs-MacBook-Pro.local (61644)] INFO : Application: My Application
+[11/01/13 17:42:49 +0000 Hemangs-MacBook-Pro.local (61644)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:42:49 +0000 Hemangs-MacBook-Pro.local (61644)] INFO : Installing Net instrumentation
+[11/01/13 17:42:49 +0000 Hemangs-MacBook-Pro.local (61644)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:42:49 +0000 Hemangs-MacBook-Pro.local (61644)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:42:49 +0000 Hemangs-MacBook-Pro.local (61644)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:42:49 +0000 Hemangs-MacBook-Pro.local (61644)] INFO : Finished instrumentation
+[11/01/13 17:42:49 +0000 Hemangs-MacBook-Pro.local (61644)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:43:55 +0000 Hemangs-MacBook-Pro.local (61649)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:43:55 +0000 Hemangs-MacBook-Pro.local (61649)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:43:55 +0000 Hemangs-MacBook-Pro.local (61649)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:43:55 +0000 Hemangs-MacBook-Pro.local (61649)] INFO : Enabling the Request Sampler.
+[11/01/13 17:43:55 +0000 Hemangs-MacBook-Pro.local (61649)] INFO : Enabling the Request Sampler.
+[11/01/13 17:43:55 +0000 Hemangs-MacBook-Pro.local (61649)] INFO : Environment: development
+[11/01/13 17:43:55 +0000 Hemangs-MacBook-Pro.local (61649)] INFO : Dispatcher: webrick
+[11/01/13 17:43:55 +0000 Hemangs-MacBook-Pro.local (61649)] INFO : Application: My Application
+[11/01/13 17:43:55 +0000 Hemangs-MacBook-Pro.local (61649)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:43:55 +0000 Hemangs-MacBook-Pro.local (61649)] INFO : Installing Net instrumentation
+[11/01/13 17:43:55 +0000 Hemangs-MacBook-Pro.local (61649)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:43:55 +0000 Hemangs-MacBook-Pro.local (61649)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:43:55 +0000 Hemangs-MacBook-Pro.local (61649)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:43:55 +0000 Hemangs-MacBook-Pro.local (61649)] INFO : Finished instrumentation
+[11/01/13 17:43:55 +0000 Hemangs-MacBook-Pro.local (61649)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:45:56 +0000 Hemangs-MacBook-Pro.local (61654)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:45:56 +0000 Hemangs-MacBook-Pro.local (61654)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:45:56 +0000 Hemangs-MacBook-Pro.local (61654)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:45:56 +0000 Hemangs-MacBook-Pro.local (61654)] INFO : Enabling the Request Sampler.
+[11/01/13 17:45:56 +0000 Hemangs-MacBook-Pro.local (61654)] INFO : Enabling the Request Sampler.
+[11/01/13 17:45:56 +0000 Hemangs-MacBook-Pro.local (61654)] INFO : Environment: development
+[11/01/13 17:45:56 +0000 Hemangs-MacBook-Pro.local (61654)] INFO : Dispatcher: webrick
+[11/01/13 17:45:56 +0000 Hemangs-MacBook-Pro.local (61654)] INFO : Application: My Application
+[11/01/13 17:45:56 +0000 Hemangs-MacBook-Pro.local (61654)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:45:56 +0000 Hemangs-MacBook-Pro.local (61654)] INFO : Installing Net instrumentation
+[11/01/13 17:45:56 +0000 Hemangs-MacBook-Pro.local (61654)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:45:56 +0000 Hemangs-MacBook-Pro.local (61654)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:45:56 +0000 Hemangs-MacBook-Pro.local (61654)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:45:56 +0000 Hemangs-MacBook-Pro.local (61654)] INFO : Finished instrumentation
+[11/01/13 17:45:56 +0000 Hemangs-MacBook-Pro.local (61654)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:46:02 +0000 Hemangs-MacBook-Pro.local (61657)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:46:02 +0000 Hemangs-MacBook-Pro.local (61657)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:46:02 +0000 Hemangs-MacBook-Pro.local (61657)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:46:02 +0000 Hemangs-MacBook-Pro.local (61657)] INFO : Enabling the Request Sampler.
+[11/01/13 17:46:02 +0000 Hemangs-MacBook-Pro.local (61657)] INFO : Enabling the Request Sampler.
+[11/01/13 17:46:02 +0000 Hemangs-MacBook-Pro.local (61657)] INFO : Environment: development
+[11/01/13 17:46:02 +0000 Hemangs-MacBook-Pro.local (61657)] INFO : Dispatcher: webrick
+[11/01/13 17:46:02 +0000 Hemangs-MacBook-Pro.local (61657)] INFO : Application: My Application
+[11/01/13 17:46:02 +0000 Hemangs-MacBook-Pro.local (61657)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:46:02 +0000 Hemangs-MacBook-Pro.local (61657)] INFO : Installing Net instrumentation
+[11/01/13 17:46:02 +0000 Hemangs-MacBook-Pro.local (61657)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:46:02 +0000 Hemangs-MacBook-Pro.local (61657)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:46:02 +0000 Hemangs-MacBook-Pro.local (61657)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:46:02 +0000 Hemangs-MacBook-Pro.local (61657)] INFO : Finished instrumentation
+[11/01/13 17:46:02 +0000 Hemangs-MacBook-Pro.local (61657)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:46:03 +0000 Hemangs-MacBook-Pro.local (61660)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:46:03 +0000 Hemangs-MacBook-Pro.local (61660)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:46:03 +0000 Hemangs-MacBook-Pro.local (61660)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:46:03 +0000 Hemangs-MacBook-Pro.local (61660)] INFO : Enabling the Request Sampler.
+[11/01/13 17:46:03 +0000 Hemangs-MacBook-Pro.local (61660)] INFO : Enabling the Request Sampler.
+[11/01/13 17:46:03 +0000 Hemangs-MacBook-Pro.local (61660)] INFO : Environment: development
+[11/01/13 17:46:03 +0000 Hemangs-MacBook-Pro.local (61660)] INFO : Dispatcher: webrick
+[11/01/13 17:46:03 +0000 Hemangs-MacBook-Pro.local (61660)] INFO : Application: My Application
+[11/01/13 17:46:03 +0000 Hemangs-MacBook-Pro.local (61660)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:46:03 +0000 Hemangs-MacBook-Pro.local (61660)] INFO : Installing Net instrumentation
+[11/01/13 17:46:03 +0000 Hemangs-MacBook-Pro.local (61660)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:46:03 +0000 Hemangs-MacBook-Pro.local (61660)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:46:03 +0000 Hemangs-MacBook-Pro.local (61660)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:46:03 +0000 Hemangs-MacBook-Pro.local (61660)] INFO : Finished instrumentation
+[11/01/13 17:46:03 +0000 Hemangs-MacBook-Pro.local (61660)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:46:48 +0000 Hemangs-MacBook-Pro.local (61669)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:46:48 +0000 Hemangs-MacBook-Pro.local (61669)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:46:48 +0000 Hemangs-MacBook-Pro.local (61669)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:46:48 +0000 Hemangs-MacBook-Pro.local (61669)] INFO : Enabling the Request Sampler.
+[11/01/13 17:46:48 +0000 Hemangs-MacBook-Pro.local (61669)] INFO : Enabling the Request Sampler.
+[11/01/13 17:46:48 +0000 Hemangs-MacBook-Pro.local (61669)] INFO : Environment: development
+[11/01/13 17:46:48 +0000 Hemangs-MacBook-Pro.local (61669)] INFO : Dispatcher: webrick
+[11/01/13 17:46:48 +0000 Hemangs-MacBook-Pro.local (61669)] INFO : Application: My Application
+[11/01/13 17:46:48 +0000 Hemangs-MacBook-Pro.local (61669)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:46:48 +0000 Hemangs-MacBook-Pro.local (61669)] INFO : Installing Net instrumentation
+[11/01/13 17:46:48 +0000 Hemangs-MacBook-Pro.local (61669)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:46:48 +0000 Hemangs-MacBook-Pro.local (61669)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:46:48 +0000 Hemangs-MacBook-Pro.local (61669)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:46:48 +0000 Hemangs-MacBook-Pro.local (61669)] INFO : Finished instrumentation
+[11/01/13 17:46:48 +0000 Hemangs-MacBook-Pro.local (61669)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:47:00 +0000 Hemangs-MacBook-Pro.local (61672)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:47:00 +0000 Hemangs-MacBook-Pro.local (61672)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:47:00 +0000 Hemangs-MacBook-Pro.local (61672)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:47:00 +0000 Hemangs-MacBook-Pro.local (61672)] INFO : Enabling the Request Sampler.
+[11/01/13 17:47:00 +0000 Hemangs-MacBook-Pro.local (61672)] INFO : Enabling the Request Sampler.
+[11/01/13 17:47:00 +0000 Hemangs-MacBook-Pro.local (61672)] INFO : Environment: development
+[11/01/13 17:47:00 +0000 Hemangs-MacBook-Pro.local (61672)] INFO : Dispatcher: webrick
+[11/01/13 17:47:00 +0000 Hemangs-MacBook-Pro.local (61672)] INFO : Application: My Application
+[11/01/13 17:47:00 +0000 Hemangs-MacBook-Pro.local (61672)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:47:00 +0000 Hemangs-MacBook-Pro.local (61672)] INFO : Installing Net instrumentation
+[11/01/13 17:47:00 +0000 Hemangs-MacBook-Pro.local (61672)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:47:00 +0000 Hemangs-MacBook-Pro.local (61672)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:47:00 +0000 Hemangs-MacBook-Pro.local (61672)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:47:00 +0000 Hemangs-MacBook-Pro.local (61672)] INFO : Finished instrumentation
+[11/01/13 17:47:00 +0000 Hemangs-MacBook-Pro.local (61672)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:50:13 +0000 Hemangs-MacBook-Pro.local (61686)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:50:13 +0000 Hemangs-MacBook-Pro.local (61686)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:50:13 +0000 Hemangs-MacBook-Pro.local (61686)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:50:13 +0000 Hemangs-MacBook-Pro.local (61686)] INFO : Enabling the Request Sampler.
+[11/01/13 17:50:13 +0000 Hemangs-MacBook-Pro.local (61686)] INFO : Enabling the Request Sampler.
+[11/01/13 17:50:13 +0000 Hemangs-MacBook-Pro.local (61686)] INFO : Environment: development
+[11/01/13 17:50:13 +0000 Hemangs-MacBook-Pro.local (61686)] INFO : Dispatcher: webrick
+[11/01/13 17:50:13 +0000 Hemangs-MacBook-Pro.local (61686)] INFO : Application: My Application
+[11/01/13 17:50:13 +0000 Hemangs-MacBook-Pro.local (61686)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:50:13 +0000 Hemangs-MacBook-Pro.local (61686)] INFO : Installing Net instrumentation
+[11/01/13 17:50:13 +0000 Hemangs-MacBook-Pro.local (61686)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:50:13 +0000 Hemangs-MacBook-Pro.local (61686)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:50:13 +0000 Hemangs-MacBook-Pro.local (61686)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:50:13 +0000 Hemangs-MacBook-Pro.local (61686)] INFO : Finished instrumentation
+[11/01/13 17:50:13 +0000 Hemangs-MacBook-Pro.local (61686)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:50:19 +0000 Hemangs-MacBook-Pro.local (61689)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:50:19 +0000 Hemangs-MacBook-Pro.local (61689)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:50:19 +0000 Hemangs-MacBook-Pro.local (61689)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:50:19 +0000 Hemangs-MacBook-Pro.local (61689)] INFO : Enabling the Request Sampler.
+[11/01/13 17:50:19 +0000 Hemangs-MacBook-Pro.local (61689)] INFO : Enabling the Request Sampler.
+[11/01/13 17:50:19 +0000 Hemangs-MacBook-Pro.local (61689)] INFO : Environment: development
+[11/01/13 17:50:19 +0000 Hemangs-MacBook-Pro.local (61689)] INFO : Dispatcher: webrick
+[11/01/13 17:50:19 +0000 Hemangs-MacBook-Pro.local (61689)] INFO : Application: My Application
+[11/01/13 17:50:19 +0000 Hemangs-MacBook-Pro.local (61689)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:50:19 +0000 Hemangs-MacBook-Pro.local (61689)] INFO : Installing Net instrumentation
+[11/01/13 17:50:19 +0000 Hemangs-MacBook-Pro.local (61689)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:50:19 +0000 Hemangs-MacBook-Pro.local (61689)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:50:19 +0000 Hemangs-MacBook-Pro.local (61689)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:50:19 +0000 Hemangs-MacBook-Pro.local (61689)] INFO : Finished instrumentation
+[11/01/13 17:50:19 +0000 Hemangs-MacBook-Pro.local (61689)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61692)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61692)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61692)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61692)] INFO : Enabling the Request Sampler.
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61692)] INFO : Enabling the Request Sampler.
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61692)] INFO : Environment: development
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61692)] INFO : Dispatcher: webrick
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61692)] INFO : Application: My Application
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61692)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61692)] INFO : Installing Net instrumentation
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61692)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61692)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61692)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61692)] INFO : Finished instrumentation
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61692)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61695)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61695)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61695)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61695)] INFO : Enabling the Request Sampler.
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61695)] INFO : Enabling the Request Sampler.
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61695)] INFO : Environment: development
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61695)] INFO : Dispatcher: webrick
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61695)] INFO : Application: My Application
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61695)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61695)] INFO : Installing Net instrumentation
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61695)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61695)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61695)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61695)] INFO : Finished instrumentation
+[11/01/13 17:50:21 +0000 Hemangs-MacBook-Pro.local (61695)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:50:57 +0000 Hemangs-MacBook-Pro.local (61698)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:50:57 +0000 Hemangs-MacBook-Pro.local (61698)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:50:57 +0000 Hemangs-MacBook-Pro.local (61698)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:50:57 +0000 Hemangs-MacBook-Pro.local (61698)] INFO : Enabling the Request Sampler.
+[11/01/13 17:50:57 +0000 Hemangs-MacBook-Pro.local (61698)] INFO : Enabling the Request Sampler.
+[11/01/13 17:50:57 +0000 Hemangs-MacBook-Pro.local (61698)] INFO : Environment: development
+[11/01/13 17:50:57 +0000 Hemangs-MacBook-Pro.local (61698)] INFO : Dispatcher: webrick
+[11/01/13 17:50:57 +0000 Hemangs-MacBook-Pro.local (61698)] INFO : Application: My Application
+[11/01/13 17:50:57 +0000 Hemangs-MacBook-Pro.local (61698)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:50:57 +0000 Hemangs-MacBook-Pro.local (61698)] INFO : Installing Net instrumentation
+[11/01/13 17:50:57 +0000 Hemangs-MacBook-Pro.local (61698)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:50:57 +0000 Hemangs-MacBook-Pro.local (61698)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:50:57 +0000 Hemangs-MacBook-Pro.local (61698)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:50:57 +0000 Hemangs-MacBook-Pro.local (61698)] INFO : Finished instrumentation
+[11/01/13 17:50:57 +0000 Hemangs-MacBook-Pro.local (61698)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:50:58 +0000 Hemangs-MacBook-Pro.local (61701)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:50:58 +0000 Hemangs-MacBook-Pro.local (61701)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:50:58 +0000 Hemangs-MacBook-Pro.local (61701)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:50:58 +0000 Hemangs-MacBook-Pro.local (61701)] INFO : Enabling the Request Sampler.
+[11/01/13 17:50:58 +0000 Hemangs-MacBook-Pro.local (61701)] INFO : Enabling the Request Sampler.
+[11/01/13 17:50:58 +0000 Hemangs-MacBook-Pro.local (61701)] INFO : Environment: development
+[11/01/13 17:50:58 +0000 Hemangs-MacBook-Pro.local (61701)] INFO : Dispatcher: webrick
+[11/01/13 17:50:58 +0000 Hemangs-MacBook-Pro.local (61701)] INFO : Application: My Application
+[11/01/13 17:50:58 +0000 Hemangs-MacBook-Pro.local (61701)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:50:58 +0000 Hemangs-MacBook-Pro.local (61701)] INFO : Installing Net instrumentation
+[11/01/13 17:50:58 +0000 Hemangs-MacBook-Pro.local (61701)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:50:58 +0000 Hemangs-MacBook-Pro.local (61701)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:50:58 +0000 Hemangs-MacBook-Pro.local (61701)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:50:58 +0000 Hemangs-MacBook-Pro.local (61701)] INFO : Finished instrumentation
+[11/01/13 17:50:58 +0000 Hemangs-MacBook-Pro.local (61701)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:51:00 +0000 Hemangs-MacBook-Pro.local (61704)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:51:00 +0000 Hemangs-MacBook-Pro.local (61704)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:51:00 +0000 Hemangs-MacBook-Pro.local (61704)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:51:00 +0000 Hemangs-MacBook-Pro.local (61704)] INFO : Enabling the Request Sampler.
+[11/01/13 17:51:00 +0000 Hemangs-MacBook-Pro.local (61704)] INFO : Enabling the Request Sampler.
+[11/01/13 17:51:00 +0000 Hemangs-MacBook-Pro.local (61704)] INFO : Environment: development
+[11/01/13 17:51:00 +0000 Hemangs-MacBook-Pro.local (61704)] INFO : Dispatcher: webrick
+[11/01/13 17:51:00 +0000 Hemangs-MacBook-Pro.local (61704)] INFO : Application: My Application
+[11/01/13 17:51:00 +0000 Hemangs-MacBook-Pro.local (61704)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:51:00 +0000 Hemangs-MacBook-Pro.local (61704)] INFO : Installing Net instrumentation
+[11/01/13 17:51:00 +0000 Hemangs-MacBook-Pro.local (61704)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:51:00 +0000 Hemangs-MacBook-Pro.local (61704)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:51:00 +0000 Hemangs-MacBook-Pro.local (61704)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:51:00 +0000 Hemangs-MacBook-Pro.local (61704)] INFO : Finished instrumentation
+[11/01/13 17:51:00 +0000 Hemangs-MacBook-Pro.local (61704)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:55:52 +0000 Hemangs-MacBook-Pro.local (61719)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:55:52 +0000 Hemangs-MacBook-Pro.local (61719)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:55:52 +0000 Hemangs-MacBook-Pro.local (61719)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:55:52 +0000 Hemangs-MacBook-Pro.local (61719)] INFO : Enabling the Request Sampler.
+[11/01/13 17:55:52 +0000 Hemangs-MacBook-Pro.local (61719)] INFO : Enabling the Request Sampler.
+[11/01/13 17:55:52 +0000 Hemangs-MacBook-Pro.local (61719)] INFO : Environment: development
+[11/01/13 17:55:52 +0000 Hemangs-MacBook-Pro.local (61719)] INFO : Dispatcher: webrick
+[11/01/13 17:55:52 +0000 Hemangs-MacBook-Pro.local (61719)] INFO : Application: My Application
+[11/01/13 17:55:52 +0000 Hemangs-MacBook-Pro.local (61719)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:55:52 +0000 Hemangs-MacBook-Pro.local (61719)] INFO : Installing Net instrumentation
+[11/01/13 17:55:52 +0000 Hemangs-MacBook-Pro.local (61719)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:55:52 +0000 Hemangs-MacBook-Pro.local (61719)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:55:52 +0000 Hemangs-MacBook-Pro.local (61719)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:55:52 +0000 Hemangs-MacBook-Pro.local (61719)] INFO : Finished instrumentation
+[11/01/13 17:55:52 +0000 Hemangs-MacBook-Pro.local (61719)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:56:00 +0000 Hemangs-MacBook-Pro.local (61724)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:56:00 +0000 Hemangs-MacBook-Pro.local (61724)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:56:00 +0000 Hemangs-MacBook-Pro.local (61724)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:56:00 +0000 Hemangs-MacBook-Pro.local (61724)] INFO : Enabling the Request Sampler.
+[11/01/13 17:56:00 +0000 Hemangs-MacBook-Pro.local (61724)] INFO : Enabling the Request Sampler.
+[11/01/13 17:56:00 +0000 Hemangs-MacBook-Pro.local (61724)] INFO : Environment: development
+[11/01/13 17:56:00 +0000 Hemangs-MacBook-Pro.local (61724)] INFO : Dispatcher: webrick
+[11/01/13 17:56:00 +0000 Hemangs-MacBook-Pro.local (61724)] INFO : Application: My Application
+[11/01/13 17:56:00 +0000 Hemangs-MacBook-Pro.local (61724)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:56:00 +0000 Hemangs-MacBook-Pro.local (61724)] INFO : Installing Net instrumentation
+[11/01/13 17:56:00 +0000 Hemangs-MacBook-Pro.local (61724)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:56:00 +0000 Hemangs-MacBook-Pro.local (61724)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:56:00 +0000 Hemangs-MacBook-Pro.local (61724)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:56:00 +0000 Hemangs-MacBook-Pro.local (61724)] INFO : Finished instrumentation
+[11/01/13 17:56:00 +0000 Hemangs-MacBook-Pro.local (61724)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:56:03 +0000 Hemangs-MacBook-Pro.local (61730)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:56:03 +0000 Hemangs-MacBook-Pro.local (61730)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:56:03 +0000 Hemangs-MacBook-Pro.local (61730)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:56:03 +0000 Hemangs-MacBook-Pro.local (61730)] INFO : Enabling the Request Sampler.
+[11/01/13 17:56:03 +0000 Hemangs-MacBook-Pro.local (61730)] INFO : Enabling the Request Sampler.
+[11/01/13 17:56:03 +0000 Hemangs-MacBook-Pro.local (61730)] INFO : Environment: development
+[11/01/13 17:56:03 +0000 Hemangs-MacBook-Pro.local (61730)] INFO : Dispatcher: webrick
+[11/01/13 17:56:03 +0000 Hemangs-MacBook-Pro.local (61730)] INFO : Application: My Application
+[11/01/13 17:56:03 +0000 Hemangs-MacBook-Pro.local (61730)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:56:03 +0000 Hemangs-MacBook-Pro.local (61730)] INFO : Installing Net instrumentation
+[11/01/13 17:56:03 +0000 Hemangs-MacBook-Pro.local (61730)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:56:03 +0000 Hemangs-MacBook-Pro.local (61730)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:56:03 +0000 Hemangs-MacBook-Pro.local (61730)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:56:03 +0000 Hemangs-MacBook-Pro.local (61730)] INFO : Finished instrumentation
+[11/01/13 17:56:03 +0000 Hemangs-MacBook-Pro.local (61730)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:56:08 +0000 Hemangs-MacBook-Pro.local (61733)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:56:08 +0000 Hemangs-MacBook-Pro.local (61733)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:56:08 +0000 Hemangs-MacBook-Pro.local (61733)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:56:08 +0000 Hemangs-MacBook-Pro.local (61733)] INFO : Enabling the Request Sampler.
+[11/01/13 17:56:08 +0000 Hemangs-MacBook-Pro.local (61733)] INFO : Enabling the Request Sampler.
+[11/01/13 17:56:08 +0000 Hemangs-MacBook-Pro.local (61733)] INFO : Environment: development
+[11/01/13 17:56:08 +0000 Hemangs-MacBook-Pro.local (61733)] INFO : Dispatcher: webrick
+[11/01/13 17:56:08 +0000 Hemangs-MacBook-Pro.local (61733)] INFO : Application: My Application
+[11/01/13 17:56:08 +0000 Hemangs-MacBook-Pro.local (61733)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:56:08 +0000 Hemangs-MacBook-Pro.local (61733)] INFO : Installing Net instrumentation
+[11/01/13 17:56:08 +0000 Hemangs-MacBook-Pro.local (61733)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:56:08 +0000 Hemangs-MacBook-Pro.local (61733)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:56:08 +0000 Hemangs-MacBook-Pro.local (61733)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:56:08 +0000 Hemangs-MacBook-Pro.local (61733)] INFO : Finished instrumentation
+[11/01/13 17:56:08 +0000 Hemangs-MacBook-Pro.local (61733)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:56:09 +0000 Hemangs-MacBook-Pro.local (61736)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:56:09 +0000 Hemangs-MacBook-Pro.local (61736)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:56:09 +0000 Hemangs-MacBook-Pro.local (61736)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:56:09 +0000 Hemangs-MacBook-Pro.local (61736)] INFO : Enabling the Request Sampler.
+[11/01/13 17:56:09 +0000 Hemangs-MacBook-Pro.local (61736)] INFO : Enabling the Request Sampler.
+[11/01/13 17:56:09 +0000 Hemangs-MacBook-Pro.local (61736)] INFO : Environment: development
+[11/01/13 17:56:09 +0000 Hemangs-MacBook-Pro.local (61736)] INFO : Dispatcher: webrick
+[11/01/13 17:56:09 +0000 Hemangs-MacBook-Pro.local (61736)] INFO : Application: My Application
+[11/01/13 17:56:09 +0000 Hemangs-MacBook-Pro.local (61736)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:56:09 +0000 Hemangs-MacBook-Pro.local (61736)] INFO : Installing Net instrumentation
+[11/01/13 17:56:09 +0000 Hemangs-MacBook-Pro.local (61736)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:56:09 +0000 Hemangs-MacBook-Pro.local (61736)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:56:09 +0000 Hemangs-MacBook-Pro.local (61736)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:56:09 +0000 Hemangs-MacBook-Pro.local (61736)] INFO : Finished instrumentation
+[11/01/13 17:56:09 +0000 Hemangs-MacBook-Pro.local (61736)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:56:20 +0000 Hemangs-MacBook-Pro.local (61741)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:56:20 +0000 Hemangs-MacBook-Pro.local (61741)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:56:20 +0000 Hemangs-MacBook-Pro.local (61741)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:56:20 +0000 Hemangs-MacBook-Pro.local (61741)] INFO : Enabling the Request Sampler.
+[11/01/13 17:56:20 +0000 Hemangs-MacBook-Pro.local (61741)] INFO : Enabling the Request Sampler.
+[11/01/13 17:56:20 +0000 Hemangs-MacBook-Pro.local (61741)] INFO : Environment: development
+[11/01/13 17:56:20 +0000 Hemangs-MacBook-Pro.local (61741)] INFO : Dispatcher: webrick
+[11/01/13 17:56:20 +0000 Hemangs-MacBook-Pro.local (61741)] INFO : Application: My Application
+[11/01/13 17:56:20 +0000 Hemangs-MacBook-Pro.local (61741)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:56:20 +0000 Hemangs-MacBook-Pro.local (61741)] INFO : Installing Net instrumentation
+[11/01/13 17:56:20 +0000 Hemangs-MacBook-Pro.local (61741)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:56:20 +0000 Hemangs-MacBook-Pro.local (61741)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:56:20 +0000 Hemangs-MacBook-Pro.local (61741)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:56:20 +0000 Hemangs-MacBook-Pro.local (61741)] INFO : Finished instrumentation
+[11/01/13 17:56:20 +0000 Hemangs-MacBook-Pro.local (61741)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:56:21 +0000 Hemangs-MacBook-Pro.local (61744)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:56:21 +0000 Hemangs-MacBook-Pro.local (61744)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:56:21 +0000 Hemangs-MacBook-Pro.local (61744)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:56:21 +0000 Hemangs-MacBook-Pro.local (61744)] INFO : Enabling the Request Sampler.
+[11/01/13 17:56:21 +0000 Hemangs-MacBook-Pro.local (61744)] INFO : Enabling the Request Sampler.
+[11/01/13 17:56:21 +0000 Hemangs-MacBook-Pro.local (61744)] INFO : Environment: development
+[11/01/13 17:56:21 +0000 Hemangs-MacBook-Pro.local (61744)] INFO : Dispatcher: webrick
+[11/01/13 17:56:21 +0000 Hemangs-MacBook-Pro.local (61744)] INFO : Application: My Application
+[11/01/13 17:56:21 +0000 Hemangs-MacBook-Pro.local (61744)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:56:21 +0000 Hemangs-MacBook-Pro.local (61744)] INFO : Installing Net instrumentation
+[11/01/13 17:56:21 +0000 Hemangs-MacBook-Pro.local (61744)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:56:21 +0000 Hemangs-MacBook-Pro.local (61744)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:56:21 +0000 Hemangs-MacBook-Pro.local (61744)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:56:21 +0000 Hemangs-MacBook-Pro.local (61744)] INFO : Finished instrumentation
+[11/01/13 17:56:21 +0000 Hemangs-MacBook-Pro.local (61744)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:56:23 +0000 Hemangs-MacBook-Pro.local (61747)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:56:23 +0000 Hemangs-MacBook-Pro.local (61747)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:56:23 +0000 Hemangs-MacBook-Pro.local (61747)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:56:23 +0000 Hemangs-MacBook-Pro.local (61747)] INFO : Enabling the Request Sampler.
+[11/01/13 17:56:23 +0000 Hemangs-MacBook-Pro.local (61747)] INFO : Enabling the Request Sampler.
+[11/01/13 17:56:23 +0000 Hemangs-MacBook-Pro.local (61747)] INFO : Environment: development
+[11/01/13 17:56:23 +0000 Hemangs-MacBook-Pro.local (61747)] INFO : Dispatcher: webrick
+[11/01/13 17:56:23 +0000 Hemangs-MacBook-Pro.local (61747)] INFO : Application: My Application
+[11/01/13 17:56:23 +0000 Hemangs-MacBook-Pro.local (61747)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:56:23 +0000 Hemangs-MacBook-Pro.local (61747)] INFO : Installing Net instrumentation
+[11/01/13 17:56:23 +0000 Hemangs-MacBook-Pro.local (61747)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:56:23 +0000 Hemangs-MacBook-Pro.local (61747)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:56:23 +0000 Hemangs-MacBook-Pro.local (61747)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:56:23 +0000 Hemangs-MacBook-Pro.local (61747)] INFO : Finished instrumentation
+[11/01/13 17:56:23 +0000 Hemangs-MacBook-Pro.local (61747)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:56:24 +0000 Hemangs-MacBook-Pro.local (61750)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:56:24 +0000 Hemangs-MacBook-Pro.local (61750)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:56:24 +0000 Hemangs-MacBook-Pro.local (61750)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:56:24 +0000 Hemangs-MacBook-Pro.local (61750)] INFO : Enabling the Request Sampler.
+[11/01/13 17:56:24 +0000 Hemangs-MacBook-Pro.local (61750)] INFO : Enabling the Request Sampler.
+[11/01/13 17:56:24 +0000 Hemangs-MacBook-Pro.local (61750)] INFO : Environment: development
+[11/01/13 17:56:24 +0000 Hemangs-MacBook-Pro.local (61750)] INFO : Dispatcher: webrick
+[11/01/13 17:56:24 +0000 Hemangs-MacBook-Pro.local (61750)] INFO : Application: My Application
+[11/01/13 17:56:24 +0000 Hemangs-MacBook-Pro.local (61750)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:56:24 +0000 Hemangs-MacBook-Pro.local (61750)] INFO : Installing Net instrumentation
+[11/01/13 17:56:24 +0000 Hemangs-MacBook-Pro.local (61750)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:56:24 +0000 Hemangs-MacBook-Pro.local (61750)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:56:24 +0000 Hemangs-MacBook-Pro.local (61750)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:56:24 +0000 Hemangs-MacBook-Pro.local (61750)] INFO : Finished instrumentation
+[11/01/13 17:56:24 +0000 Hemangs-MacBook-Pro.local (61750)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:56:56 +0000 Hemangs-MacBook-Pro.local (61753)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:56:56 +0000 Hemangs-MacBook-Pro.local (61753)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:56:56 +0000 Hemangs-MacBook-Pro.local (61753)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:56:56 +0000 Hemangs-MacBook-Pro.local (61753)] INFO : Enabling the Request Sampler.
+[11/01/13 17:56:56 +0000 Hemangs-MacBook-Pro.local (61753)] INFO : Enabling the Request Sampler.
+[11/01/13 17:56:56 +0000 Hemangs-MacBook-Pro.local (61753)] INFO : Environment: development
+[11/01/13 17:56:56 +0000 Hemangs-MacBook-Pro.local (61753)] INFO : Dispatcher: webrick
+[11/01/13 17:56:56 +0000 Hemangs-MacBook-Pro.local (61753)] INFO : Application: My Application
+[11/01/13 17:56:56 +0000 Hemangs-MacBook-Pro.local (61753)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:56:56 +0000 Hemangs-MacBook-Pro.local (61753)] INFO : Installing Net instrumentation
+[11/01/13 17:56:56 +0000 Hemangs-MacBook-Pro.local (61753)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:56:56 +0000 Hemangs-MacBook-Pro.local (61753)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:56:56 +0000 Hemangs-MacBook-Pro.local (61753)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:56:56 +0000 Hemangs-MacBook-Pro.local (61753)] INFO : Finished instrumentation
+[11/01/13 17:56:56 +0000 Hemangs-MacBook-Pro.local (61753)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:57:12 +0000 Hemangs-MacBook-Pro.local (61762)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:57:12 +0000 Hemangs-MacBook-Pro.local (61762)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:57:12 +0000 Hemangs-MacBook-Pro.local (61762)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:57:12 +0000 Hemangs-MacBook-Pro.local (61762)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:12 +0000 Hemangs-MacBook-Pro.local (61762)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:12 +0000 Hemangs-MacBook-Pro.local (61762)] INFO : Environment: development
+[11/01/13 17:57:12 +0000 Hemangs-MacBook-Pro.local (61762)] INFO : Dispatcher: webrick
+[11/01/13 17:57:12 +0000 Hemangs-MacBook-Pro.local (61762)] INFO : Application: My Application
+[11/01/13 17:57:12 +0000 Hemangs-MacBook-Pro.local (61762)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:57:12 +0000 Hemangs-MacBook-Pro.local (61762)] INFO : Installing Net instrumentation
+[11/01/13 17:57:12 +0000 Hemangs-MacBook-Pro.local (61762)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:57:12 +0000 Hemangs-MacBook-Pro.local (61762)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:57:12 +0000 Hemangs-MacBook-Pro.local (61762)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:57:12 +0000 Hemangs-MacBook-Pro.local (61762)] INFO : Finished instrumentation
+[11/01/13 17:57:12 +0000 Hemangs-MacBook-Pro.local (61762)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:57:14 +0000 Hemangs-MacBook-Pro.local (61765)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:57:14 +0000 Hemangs-MacBook-Pro.local (61765)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:57:14 +0000 Hemangs-MacBook-Pro.local (61765)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:57:14 +0000 Hemangs-MacBook-Pro.local (61765)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:14 +0000 Hemangs-MacBook-Pro.local (61765)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:14 +0000 Hemangs-MacBook-Pro.local (61765)] INFO : Environment: development
+[11/01/13 17:57:14 +0000 Hemangs-MacBook-Pro.local (61765)] INFO : Dispatcher: webrick
+[11/01/13 17:57:14 +0000 Hemangs-MacBook-Pro.local (61765)] INFO : Application: My Application
+[11/01/13 17:57:14 +0000 Hemangs-MacBook-Pro.local (61765)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:57:14 +0000 Hemangs-MacBook-Pro.local (61765)] INFO : Installing Net instrumentation
+[11/01/13 17:57:14 +0000 Hemangs-MacBook-Pro.local (61765)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:57:14 +0000 Hemangs-MacBook-Pro.local (61765)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:57:14 +0000 Hemangs-MacBook-Pro.local (61765)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:57:14 +0000 Hemangs-MacBook-Pro.local (61765)] INFO : Finished instrumentation
+[11/01/13 17:57:14 +0000 Hemangs-MacBook-Pro.local (61765)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:57:15 +0000 Hemangs-MacBook-Pro.local (61768)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:57:15 +0000 Hemangs-MacBook-Pro.local (61768)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:57:15 +0000 Hemangs-MacBook-Pro.local (61768)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:57:15 +0000 Hemangs-MacBook-Pro.local (61768)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:15 +0000 Hemangs-MacBook-Pro.local (61768)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:15 +0000 Hemangs-MacBook-Pro.local (61768)] INFO : Environment: development
+[11/01/13 17:57:15 +0000 Hemangs-MacBook-Pro.local (61768)] INFO : Dispatcher: webrick
+[11/01/13 17:57:15 +0000 Hemangs-MacBook-Pro.local (61768)] INFO : Application: My Application
+[11/01/13 17:57:15 +0000 Hemangs-MacBook-Pro.local (61768)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:57:15 +0000 Hemangs-MacBook-Pro.local (61768)] INFO : Installing Net instrumentation
+[11/01/13 17:57:15 +0000 Hemangs-MacBook-Pro.local (61768)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:57:15 +0000 Hemangs-MacBook-Pro.local (61768)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:57:15 +0000 Hemangs-MacBook-Pro.local (61768)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:57:15 +0000 Hemangs-MacBook-Pro.local (61768)] INFO : Finished instrumentation
+[11/01/13 17:57:15 +0000 Hemangs-MacBook-Pro.local (61768)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:57:16 +0000 Hemangs-MacBook-Pro.local (61771)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:57:16 +0000 Hemangs-MacBook-Pro.local (61771)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:57:16 +0000 Hemangs-MacBook-Pro.local (61771)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:57:16 +0000 Hemangs-MacBook-Pro.local (61771)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:16 +0000 Hemangs-MacBook-Pro.local (61771)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:16 +0000 Hemangs-MacBook-Pro.local (61771)] INFO : Environment: development
+[11/01/13 17:57:16 +0000 Hemangs-MacBook-Pro.local (61771)] INFO : Dispatcher: webrick
+[11/01/13 17:57:16 +0000 Hemangs-MacBook-Pro.local (61771)] INFO : Application: My Application
+[11/01/13 17:57:16 +0000 Hemangs-MacBook-Pro.local (61771)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:57:16 +0000 Hemangs-MacBook-Pro.local (61771)] INFO : Installing Net instrumentation
+[11/01/13 17:57:16 +0000 Hemangs-MacBook-Pro.local (61771)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:57:16 +0000 Hemangs-MacBook-Pro.local (61771)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:57:16 +0000 Hemangs-MacBook-Pro.local (61771)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:57:16 +0000 Hemangs-MacBook-Pro.local (61771)] INFO : Finished instrumentation
+[11/01/13 17:57:16 +0000 Hemangs-MacBook-Pro.local (61771)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:57:17 +0000 Hemangs-MacBook-Pro.local (61774)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:57:17 +0000 Hemangs-MacBook-Pro.local (61774)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:57:17 +0000 Hemangs-MacBook-Pro.local (61774)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:57:17 +0000 Hemangs-MacBook-Pro.local (61774)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:17 +0000 Hemangs-MacBook-Pro.local (61774)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:17 +0000 Hemangs-MacBook-Pro.local (61774)] INFO : Environment: development
+[11/01/13 17:57:17 +0000 Hemangs-MacBook-Pro.local (61774)] INFO : Dispatcher: webrick
+[11/01/13 17:57:17 +0000 Hemangs-MacBook-Pro.local (61774)] INFO : Application: My Application
+[11/01/13 17:57:17 +0000 Hemangs-MacBook-Pro.local (61774)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:57:17 +0000 Hemangs-MacBook-Pro.local (61774)] INFO : Installing Net instrumentation
+[11/01/13 17:57:17 +0000 Hemangs-MacBook-Pro.local (61774)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:57:17 +0000 Hemangs-MacBook-Pro.local (61774)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:57:17 +0000 Hemangs-MacBook-Pro.local (61774)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:57:17 +0000 Hemangs-MacBook-Pro.local (61774)] INFO : Finished instrumentation
+[11/01/13 17:57:17 +0000 Hemangs-MacBook-Pro.local (61774)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:57:30 +0000 Hemangs-MacBook-Pro.local (61779)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:57:30 +0000 Hemangs-MacBook-Pro.local (61779)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:57:30 +0000 Hemangs-MacBook-Pro.local (61779)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:57:30 +0000 Hemangs-MacBook-Pro.local (61779)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:30 +0000 Hemangs-MacBook-Pro.local (61779)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:30 +0000 Hemangs-MacBook-Pro.local (61779)] INFO : Environment: development
+[11/01/13 17:57:30 +0000 Hemangs-MacBook-Pro.local (61779)] INFO : Dispatcher: webrick
+[11/01/13 17:57:30 +0000 Hemangs-MacBook-Pro.local (61779)] INFO : Application: My Application
+[11/01/13 17:57:30 +0000 Hemangs-MacBook-Pro.local (61779)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:57:30 +0000 Hemangs-MacBook-Pro.local (61779)] INFO : Installing Net instrumentation
+[11/01/13 17:57:30 +0000 Hemangs-MacBook-Pro.local (61779)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:57:30 +0000 Hemangs-MacBook-Pro.local (61779)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:57:30 +0000 Hemangs-MacBook-Pro.local (61779)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:57:30 +0000 Hemangs-MacBook-Pro.local (61779)] INFO : Finished instrumentation
+[11/01/13 17:57:30 +0000 Hemangs-MacBook-Pro.local (61779)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61782)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61782)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61782)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61782)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61782)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61782)] INFO : Environment: development
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61782)] INFO : Dispatcher: webrick
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61782)] INFO : Application: My Application
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61782)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61782)] INFO : Installing Net instrumentation
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61782)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61782)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61782)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61782)] INFO : Finished instrumentation
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61782)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61785)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61785)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61785)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61785)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61785)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61785)] INFO : Environment: development
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61785)] INFO : Dispatcher: webrick
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61785)] INFO : Application: My Application
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61785)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61785)] INFO : Installing Net instrumentation
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61785)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61785)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61785)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61785)] INFO : Finished instrumentation
+[11/01/13 17:57:33 +0000 Hemangs-MacBook-Pro.local (61785)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:57:35 +0000 Hemangs-MacBook-Pro.local (61788)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:57:35 +0000 Hemangs-MacBook-Pro.local (61788)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:57:35 +0000 Hemangs-MacBook-Pro.local (61788)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:57:35 +0000 Hemangs-MacBook-Pro.local (61788)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:35 +0000 Hemangs-MacBook-Pro.local (61788)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:35 +0000 Hemangs-MacBook-Pro.local (61788)] INFO : Environment: development
+[11/01/13 17:57:35 +0000 Hemangs-MacBook-Pro.local (61788)] INFO : Dispatcher: webrick
+[11/01/13 17:57:35 +0000 Hemangs-MacBook-Pro.local (61788)] INFO : Application: My Application
+[11/01/13 17:57:35 +0000 Hemangs-MacBook-Pro.local (61788)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:57:35 +0000 Hemangs-MacBook-Pro.local (61788)] INFO : Installing Net instrumentation
+[11/01/13 17:57:35 +0000 Hemangs-MacBook-Pro.local (61788)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:57:35 +0000 Hemangs-MacBook-Pro.local (61788)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:57:35 +0000 Hemangs-MacBook-Pro.local (61788)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:57:35 +0000 Hemangs-MacBook-Pro.local (61788)] INFO : Finished instrumentation
+[11/01/13 17:57:35 +0000 Hemangs-MacBook-Pro.local (61788)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:57:36 +0000 Hemangs-MacBook-Pro.local (61791)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:57:36 +0000 Hemangs-MacBook-Pro.local (61791)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:57:36 +0000 Hemangs-MacBook-Pro.local (61791)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:57:36 +0000 Hemangs-MacBook-Pro.local (61791)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:36 +0000 Hemangs-MacBook-Pro.local (61791)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:36 +0000 Hemangs-MacBook-Pro.local (61791)] INFO : Environment: development
+[11/01/13 17:57:36 +0000 Hemangs-MacBook-Pro.local (61791)] INFO : Dispatcher: webrick
+[11/01/13 17:57:36 +0000 Hemangs-MacBook-Pro.local (61791)] INFO : Application: My Application
+[11/01/13 17:57:36 +0000 Hemangs-MacBook-Pro.local (61791)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:57:36 +0000 Hemangs-MacBook-Pro.local (61791)] INFO : Installing Net instrumentation
+[11/01/13 17:57:36 +0000 Hemangs-MacBook-Pro.local (61791)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:57:36 +0000 Hemangs-MacBook-Pro.local (61791)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:57:36 +0000 Hemangs-MacBook-Pro.local (61791)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:57:36 +0000 Hemangs-MacBook-Pro.local (61791)] INFO : Finished instrumentation
+[11/01/13 17:57:36 +0000 Hemangs-MacBook-Pro.local (61791)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:57:43 +0000 Hemangs-MacBook-Pro.local (61796)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:57:43 +0000 Hemangs-MacBook-Pro.local (61796)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:57:43 +0000 Hemangs-MacBook-Pro.local (61796)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:57:43 +0000 Hemangs-MacBook-Pro.local (61796)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:43 +0000 Hemangs-MacBook-Pro.local (61796)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:43 +0000 Hemangs-MacBook-Pro.local (61796)] INFO : Environment: development
+[11/01/13 17:57:43 +0000 Hemangs-MacBook-Pro.local (61796)] INFO : Dispatcher: webrick
+[11/01/13 17:57:43 +0000 Hemangs-MacBook-Pro.local (61796)] INFO : Application: My Application
+[11/01/13 17:57:43 +0000 Hemangs-MacBook-Pro.local (61796)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:57:43 +0000 Hemangs-MacBook-Pro.local (61796)] INFO : Installing Net instrumentation
+[11/01/13 17:57:43 +0000 Hemangs-MacBook-Pro.local (61796)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:57:43 +0000 Hemangs-MacBook-Pro.local (61796)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:57:43 +0000 Hemangs-MacBook-Pro.local (61796)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:57:43 +0000 Hemangs-MacBook-Pro.local (61796)] INFO : Finished instrumentation
+[11/01/13 17:57:43 +0000 Hemangs-MacBook-Pro.local (61796)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:57:46 +0000 Hemangs-MacBook-Pro.local (61799)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:57:46 +0000 Hemangs-MacBook-Pro.local (61799)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:57:46 +0000 Hemangs-MacBook-Pro.local (61799)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:57:46 +0000 Hemangs-MacBook-Pro.local (61799)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:46 +0000 Hemangs-MacBook-Pro.local (61799)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:46 +0000 Hemangs-MacBook-Pro.local (61799)] INFO : Environment: development
+[11/01/13 17:57:46 +0000 Hemangs-MacBook-Pro.local (61799)] INFO : Dispatcher: webrick
+[11/01/13 17:57:46 +0000 Hemangs-MacBook-Pro.local (61799)] INFO : Application: My Application
+[11/01/13 17:57:46 +0000 Hemangs-MacBook-Pro.local (61799)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:57:46 +0000 Hemangs-MacBook-Pro.local (61799)] INFO : Installing Net instrumentation
+[11/01/13 17:57:46 +0000 Hemangs-MacBook-Pro.local (61799)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:57:46 +0000 Hemangs-MacBook-Pro.local (61799)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:57:46 +0000 Hemangs-MacBook-Pro.local (61799)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:57:46 +0000 Hemangs-MacBook-Pro.local (61799)] INFO : Finished instrumentation
+[11/01/13 17:57:46 +0000 Hemangs-MacBook-Pro.local (61799)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61802)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61802)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61802)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61802)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61802)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61802)] INFO : Environment: development
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61802)] INFO : Dispatcher: webrick
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61802)] INFO : Application: My Application
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61802)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61802)] INFO : Installing Net instrumentation
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61802)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61802)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61802)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61802)] INFO : Finished instrumentation
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61802)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61805)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61805)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61805)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61805)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61805)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61805)] INFO : Environment: development
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61805)] INFO : Dispatcher: webrick
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61805)] INFO : Application: My Application
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61805)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61805)] INFO : Installing Net instrumentation
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61805)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61805)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61805)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61805)] INFO : Finished instrumentation
+[11/01/13 17:57:47 +0000 Hemangs-MacBook-Pro.local (61805)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:57:48 +0000 Hemangs-MacBook-Pro.local (61808)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:57:48 +0000 Hemangs-MacBook-Pro.local (61808)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:57:48 +0000 Hemangs-MacBook-Pro.local (61808)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:57:48 +0000 Hemangs-MacBook-Pro.local (61808)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:48 +0000 Hemangs-MacBook-Pro.local (61808)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:48 +0000 Hemangs-MacBook-Pro.local (61808)] INFO : Environment: development
+[11/01/13 17:57:48 +0000 Hemangs-MacBook-Pro.local (61808)] INFO : Dispatcher: webrick
+[11/01/13 17:57:48 +0000 Hemangs-MacBook-Pro.local (61808)] INFO : Application: My Application
+[11/01/13 17:57:48 +0000 Hemangs-MacBook-Pro.local (61808)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:57:48 +0000 Hemangs-MacBook-Pro.local (61808)] INFO : Installing Net instrumentation
+[11/01/13 17:57:48 +0000 Hemangs-MacBook-Pro.local (61808)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:57:48 +0000 Hemangs-MacBook-Pro.local (61808)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:57:48 +0000 Hemangs-MacBook-Pro.local (61808)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:57:48 +0000 Hemangs-MacBook-Pro.local (61808)] INFO : Finished instrumentation
+[11/01/13 17:57:48 +0000 Hemangs-MacBook-Pro.local (61808)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61811)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61811)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61811)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61811)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61811)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61811)] INFO : Environment: development
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61811)] INFO : Dispatcher: webrick
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61811)] INFO : Application: My Application
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61811)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61811)] INFO : Installing Net instrumentation
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61811)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61811)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61811)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61811)] INFO : Finished instrumentation
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61811)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61814)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61814)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61814)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61814)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61814)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61814)] INFO : Environment: development
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61814)] INFO : Dispatcher: webrick
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61814)] INFO : Application: My Application
+[11/01/13 17:57:49 +0000 Hemangs-MacBook-Pro.local (61814)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:57:50 +0000 Hemangs-MacBook-Pro.local (61814)] INFO : Installing Net instrumentation
+[11/01/13 17:57:50 +0000 Hemangs-MacBook-Pro.local (61814)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:57:50 +0000 Hemangs-MacBook-Pro.local (61814)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:57:50 +0000 Hemangs-MacBook-Pro.local (61814)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:57:50 +0000 Hemangs-MacBook-Pro.local (61814)] INFO : Finished instrumentation
+[11/01/13 17:57:50 +0000 Hemangs-MacBook-Pro.local (61814)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:57:50 +0000 Hemangs-MacBook-Pro.local (61817)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:57:50 +0000 Hemangs-MacBook-Pro.local (61817)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:57:50 +0000 Hemangs-MacBook-Pro.local (61817)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:57:50 +0000 Hemangs-MacBook-Pro.local (61817)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:50 +0000 Hemangs-MacBook-Pro.local (61817)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:50 +0000 Hemangs-MacBook-Pro.local (61817)] INFO : Environment: development
+[11/01/13 17:57:50 +0000 Hemangs-MacBook-Pro.local (61817)] INFO : Dispatcher: webrick
+[11/01/13 17:57:50 +0000 Hemangs-MacBook-Pro.local (61817)] INFO : Application: My Application
+[11/01/13 17:57:50 +0000 Hemangs-MacBook-Pro.local (61817)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:57:50 +0000 Hemangs-MacBook-Pro.local (61817)] INFO : Installing Net instrumentation
+[11/01/13 17:57:50 +0000 Hemangs-MacBook-Pro.local (61817)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:57:50 +0000 Hemangs-MacBook-Pro.local (61817)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:57:50 +0000 Hemangs-MacBook-Pro.local (61817)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:57:50 +0000 Hemangs-MacBook-Pro.local (61817)] INFO : Finished instrumentation
+[11/01/13 17:57:50 +0000 Hemangs-MacBook-Pro.local (61817)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:57:51 +0000 Hemangs-MacBook-Pro.local (61820)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:57:51 +0000 Hemangs-MacBook-Pro.local (61820)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:57:51 +0000 Hemangs-MacBook-Pro.local (61820)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:57:51 +0000 Hemangs-MacBook-Pro.local (61820)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:51 +0000 Hemangs-MacBook-Pro.local (61820)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:51 +0000 Hemangs-MacBook-Pro.local (61820)] INFO : Environment: development
+[11/01/13 17:57:51 +0000 Hemangs-MacBook-Pro.local (61820)] INFO : Dispatcher: webrick
+[11/01/13 17:57:51 +0000 Hemangs-MacBook-Pro.local (61820)] INFO : Application: My Application
+[11/01/13 17:57:51 +0000 Hemangs-MacBook-Pro.local (61820)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:57:51 +0000 Hemangs-MacBook-Pro.local (61820)] INFO : Installing Net instrumentation
+[11/01/13 17:57:51 +0000 Hemangs-MacBook-Pro.local (61820)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:57:51 +0000 Hemangs-MacBook-Pro.local (61820)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:57:51 +0000 Hemangs-MacBook-Pro.local (61820)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:57:51 +0000 Hemangs-MacBook-Pro.local (61820)] INFO : Finished instrumentation
+[11/01/13 17:57:51 +0000 Hemangs-MacBook-Pro.local (61820)] INFO : Doing deferred dependency-detection before Rack startup
+[11/01/13 17:57:52 +0000 Hemangs-MacBook-Pro.local (61823)] INFO : Starting the New Relic agent in "development" environment.
+[11/01/13 17:57:52 +0000 Hemangs-MacBook-Pro.local (61823)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[11/01/13 17:57:52 +0000 Hemangs-MacBook-Pro.local (61823)] INFO : Reading configuration from config/newrelic.yml
+[11/01/13 17:57:52 +0000 Hemangs-MacBook-Pro.local (61823)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:52 +0000 Hemangs-MacBook-Pro.local (61823)] INFO : Enabling the Request Sampler.
+[11/01/13 17:57:52 +0000 Hemangs-MacBook-Pro.local (61823)] INFO : Environment: development
+[11/01/13 17:57:52 +0000 Hemangs-MacBook-Pro.local (61823)] INFO : Dispatcher: webrick
+[11/01/13 17:57:52 +0000 Hemangs-MacBook-Pro.local (61823)] INFO : Application: My Application
+[11/01/13 17:57:52 +0000 Hemangs-MacBook-Pro.local (61823)] WARN : Agent configured not to send data in this environment.
+[11/01/13 17:57:52 +0000 Hemangs-MacBook-Pro.local (61823)] INFO : Installing Net instrumentation
+[11/01/13 17:57:52 +0000 Hemangs-MacBook-Pro.local (61823)] INFO : Installing Sinatra instrumentation
+[11/01/13 17:57:52 +0000 Hemangs-MacBook-Pro.local (61823)] INFO : Skipping auto-injection of middleware for Sinatra - requires Sinatra 1.2.1+
+[11/01/13 17:57:52 +0000 Hemangs-MacBook-Pro.local (61823)] INFO : Installing deferred Rack instrumentation
+[11/01/13 17:57:52 +0000 Hemangs-MacBook-Pro.local (61823)] INFO : Finished instrumentation
+[11/01/13 17:57:52 +0000 Hemangs-MacBook-Pro.local (61823)] INFO : Doing deferred dependency-detection before Rack startup

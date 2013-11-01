@@ -98,18 +98,18 @@ end
 
 get '/new' do
 	generate_new_puzzle
-	redirect to ("/")
+	redirect("/")
 end
 
 post '/' do
 	cells = box_order_to_row_order(params["cell"])
 	session[:current_solution] = cells.map{|value| value.to_i}.join
 	session[:check_solution] = true
-	redirect to ("/")
+	redirect("/")
 end
 
 get '/solution' do
-    @current_solution = session[:solution]
+  @current_solution = session[:solution]
 	@solution = @current_solution
 	@puzzle = session[:puzzle]
   erb :index
